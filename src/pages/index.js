@@ -24,21 +24,7 @@ export default function Home() {
           Explore the nations, factions, people, places, and history
           that make up the world of Abrigar.
         </p>
-
-        <a
-          href="/abrigar/docs/abrigar"
-          style={{
-            display: 'inline-block',
-            marginTop: '1rem',
-            padding: '0.75rem 1.5rem',
-            borderRadius: '8px',
-            backgroundColor: 'var(--ifm-color-primary)',
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          Explore Abrigar
-        </a>
+        
       </main>
     </Layout>
   );
