@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# The Example Group
+# Minera
 
 The Example Group is an organization operating within Abrigar.
 
