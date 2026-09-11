@@ -78,14 +78,6 @@ const config = {
       },
       navbar: {
         title: 'Abrigar',
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Abrigar',
-          },
-        ],
       },
       footer: {
         style: 'dark',
