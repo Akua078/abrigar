@@ -8,6 +8,7 @@ export default function Home() {
       description="An encyclopedia of the world of Abrigar"
     >
       <main
+      className="abrigar-home"
         style={{
           padding: '4rem 2rem',
           textAlign: 'center',
@@ -24,7 +25,7 @@ export default function Home() {
           Explore the nations, factions, people, places, and history
           that make up the world of Abrigar.
         </p>
-        
+
       </main>
     </Layout>
   );

@@ -95,17 +95,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Abrigar',
-            items: [
-              {
-                label: 'The World',
-                to: '/docs/abrigar',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Abrigar. All rights reserved.`,
       },
       prism: {
