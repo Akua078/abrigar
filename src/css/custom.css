@@ -36,3 +36,11 @@
 .pagination-nav {
   display: none;
 }
+
+.footer {
+  padding: 0.25rem 0;
+}
+
+.footer__copyright {
+  font-size: 0.7rem;
+}

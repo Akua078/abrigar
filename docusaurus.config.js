@@ -77,6 +77,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
+        logo: {alt: 'Abrigar Logo', src: 'img/Abrigar Logo.png',},
         title: 'Abrigar',
         items: [
           {label: 'World', to: '/docs/world', position: 'left',},
