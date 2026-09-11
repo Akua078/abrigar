@@ -1,6 +1,5 @@
 const sidebars = {
   tutorialSidebar: [
-    'abrigar',
 
     {
       type: 'category', label: 'Nations', items: [
