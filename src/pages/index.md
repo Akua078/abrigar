@@ -4,6 +4,8 @@ title: Abrigar
 hide_table_of_contents: true
 ---
 
+<div className="landing-page">
+
 # Abrigar
 
 Welcome, wandering Soul, to Abrigar.
@@ -18,3 +20,5 @@ Explore freely, and enjoy the show.
 ## Basic Information
 
 It's important to remember that Abrigar is a world wholly unlike our own, filled with different races and ideas, magics and sciences, and that these things affect how culture develops. Below is a summary of information that is too general to be specifically mentioned, and information that indicates a significant difference between our world and Abrigar. Be aware that everything on this page, contrary to my earlier comment, is true and can be trusted to remain so. If something here contradicts later found information, ask your Dungeon Master if it is intentional to be sure if something is a mistake, an exception, or something more... 
+
+</div>

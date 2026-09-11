@@ -44,3 +44,11 @@
 .footer__copyright {
   font-size: 0.7rem;
 }
+
+/* - Custom Fonts and styles - */
+
+.landing-page {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
