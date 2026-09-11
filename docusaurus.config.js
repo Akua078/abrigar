@@ -78,6 +78,11 @@ const config = {
       },
       navbar: {
         title: 'Abrigar',
+        items: [
+          {label: 'World', to: '/docs/world', position: 'left',},
+          {label: 'Nations', to: '/docs/nations', position: 'left',},
+          {label: 'Groups', to: '/docs/groups', position: 'left',}
+        ]
       },
       footer: {
         style: 'dark',
