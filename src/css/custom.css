@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Underdog&display=swap');
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -51,4 +53,27 @@
   text-align: center;
   max-width: 900px;
   margin: 0 auto;
+  font-family: 'Lora', serif;
+}
+
+.landing-page h1,
+.landing-page h2,
+.landing-page h3 {
+  font-family: 'Underdog', cursive;
+}
+
+.landing-page h1 {
+  font-size: 4rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+.landing-page h2 {
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+
+.landing-page p {
+  font-size: 1.1rem;
+  line-height: 1.8;
 }
