@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Abrigar',
   tagline: 'Welcome, wandering Soul',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Abrigar Logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
