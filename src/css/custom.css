@@ -70,10 +70,17 @@
 
 .footer {
   padding: 0.25rem 0;
+  background-color: #4b286d;
 }
 
 .footer__copyright {
   font-size: 0.7rem;
+}
+
+/* Navbar - - - - - - - - - - - - - - - - Navbar */
+
+.navbar {
+  background-color: #43245f;
 }
 
 /* Standard - - - - - - - - - - - - - - - - Standard */
