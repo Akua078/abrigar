@@ -4,6 +4,8 @@ title: debug
 hide_table_of_contents: true
 ---
 
+import Vespon from '@site/static/img/Vespon.png';
+
 :::warning[Debug]
 <div className = "tech">
 This page is for website development purposes! This is where I test my code to make sure it works. Nothing here is considered cannon and nothing here was meant for player eyes. 
@@ -47,6 +49,6 @@ text
 </div>
 
 <figure>
-  <img src="/img/Vespon.png" />
-  <figcaption>Your caption here.</figcaption>
+  <img src={Vespon} />
+  <figcaption>Please work.</figcaption>
 </figure>
