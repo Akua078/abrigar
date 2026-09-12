@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Nations
+## World
 
-## horray
+# world landing page
