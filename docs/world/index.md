@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
+title: World
 ---
-
-## World
 
 # world landing page

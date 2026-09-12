@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
+title: Nations
 ---
-
-## Nations
 
 # nations landing page
