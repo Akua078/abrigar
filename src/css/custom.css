@@ -140,9 +140,18 @@
 
 /* Other - - - - - - - - - - - - - - - - Other */
 
-.standard p {
+.tiny {
   font-size: 0.7rem;
   line-height: 1.1rem;
+  text-align: center;
+}
+
+.left_allign {
+  text-align: left;
+}
+
+.right_allign {
+  text-align: right;
 }
 
 /* Mobile - - - - - - - - - - - - - - - - Mobile */
