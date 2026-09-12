@@ -83,6 +83,20 @@
   background-color: #43245f;
 }
 
+.navbar__title,
+.navbar__link {
+  color: #eee4f5;
+}
+
+/* Light mode */
+[data-theme='light'] .navbar {
+  background-color: #8b5aa8;
+}
+
+[data-theme='light'] .navbar {
+  background-color: #76508f;
+}
+
 /* Standard - - - - - - - - - - - - - - - - Standard */
 .standard {
   text-align: center;
@@ -127,7 +141,7 @@
 /* Standard - - - - - - - - - - - - - - - - Standard */
 
 @media screen and (max-width: 700px) {
-  .landing-columns {
+  .c2 {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
