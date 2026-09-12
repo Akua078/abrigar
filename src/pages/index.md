@@ -4,7 +4,7 @@ title: Abrigar
 hide_table_of_contents: true
 ---
 
-<div className="landing-page">
+<div className="standard">
 
 # Abrigar
 
@@ -24,7 +24,7 @@ It's important to remember that Abrigar is a world wholly unlike our own, filled
 
 </div>
 
-<div className="landing-columns">
+<div className="standard c2">
 
 <div>
 
