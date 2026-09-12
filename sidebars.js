@@ -33,7 +33,10 @@ const sidebars = {
         id: 'world/index',
       },
       items: [
-        'world/Food and Goods',
+        'world/map',
+        'world/timeline',
+        'world/bestiary',
+        'world/floriary',
       ],
     },
 
