@@ -47,7 +47,7 @@ text
 </div>
 
 <figure>
-    <img src="img/vespon.png" class="iconImage"> </img>
+    <img src="img/Vespon.png" class="iconImage"> </img>
     <figcaption className="standard">A little Vespon, here to be adorable.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ text
 Isn't he cute?
 </div>
 <figure>
-    <img src="img/vespon.png" class="iconImage"> </img>
+    <img src="img/Vespon.png" class="iconImage"> </img>
     <figcaption className="standard">A little Vespon, Over to the right.</figcaption>
 </figure>
 </div>
