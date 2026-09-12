@@ -47,6 +47,6 @@ text
 </div>
 
 <figure>
-  <img src="./img/Vespon.png" />
-  <figcaption>A little Vespon, here to be adorable.</figcaption>
+  <img src="/img/Vespon.png" />
+  <figcaption>Your caption here.</figcaption>
 </figure>
