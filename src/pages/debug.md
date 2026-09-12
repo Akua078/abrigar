@@ -52,3 +52,16 @@ text
   <img src={Vespon} />
   <figcaption>A little Vespon sitting in the center</figcaption>
 </figure>
+
+<div className = "c2">
+<div> 
+# Column 1
+text
+</div>
+<div> 
+    <figure className="iconImage">
+    <img src={Vespon} />
+    <figcaption>A little Vespon sitting in the right</figcaption>
+    </figure>
+</div>
+</div>
