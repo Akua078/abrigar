@@ -48,7 +48,7 @@ text
 </div>
 </div>
 
-<figure>
+<figure className="iconImage">
   <img src={Vespon} />
-  <figcaption>Please work.</figcaption>
+  <figcaption>A little Vespon sitting in the center</figcaption>
 </figure>
