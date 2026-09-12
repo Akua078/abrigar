@@ -47,17 +47,24 @@ text
 </div>
 
 <figure>
-    <img src="/img/Vespon.png" className="iconImage">
-    <figcaption className="standard">A little Vespon, here to be adorable.</figcaption>
+    <img src="./img/Vespon.png" />
+    <figcaption>
+        A little Vespon, here to be adorable.
+    </figcaption>
 </figure>
 
-<div className = "c2">
-<div> 
-# Vespon
-Isn't he cute?
-</div>
-<figure>
-    <img src="/img/Vespon.png" className="iconImage">
-    <figcaption className="standard">A little Vespon, Over to the right.</figcaption>
-</figure>
+<div className="c2">
+    <div> 
+        # Vespon
+        Isn't he cute?
+    </div>
+    <div>
+        <figure>
+            <img src="./img/Vespon.png" />
+            <figcaption className="standard tiny">
+                A little Vespon, Over to the right.
+            </figcaption>
+        </figure>
+    </div>
+
 </div>
