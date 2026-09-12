@@ -24,26 +24,32 @@ It's important to remember that Abrigar is a world wholly unlike our own, filled
 
 </div>
 
-<div className="standard c2">
+<div className="c2">
 
 <div>
 
-## The World
+## The Gods
 
-Abrigar is a world of vast oceans, scattered islands, ancient nations, and dangerous waters.
+The existence of a God or Gods in our own world has been a subject of debate for tens of thousands of years. In Abrigar, though, gods are implied to have existed since time began, and live on timespans hardly imaginable to a mortal creature. Their presence is not usually direct, though their influence is undeniable through their vast ranks of clerics and paladins. Any who deny the existence of Gods in Abrigar are scoffed at as fools, and rightly so, as we might laugh at someone who believes the earth to be flat.
 
-There are 173 known islands, each with their own histories, cultures, and problems.
+It is critical to understand that this is the difference between what we think of when we think of Gods in our world and what gods are in Abrigar. In Abrigar, Gods are considered immortal, though this does not mean unkillable. They do not age, do not naturally become sick, and are unfathomably more powerful than any mortal can imagine. This being said, it is known quietly by the populous that they can be killed. Be it by a blade or by the extermination of those who worship them, a God, or a God's power, can be killed in Abrigar. As far as the general public knows this has never happened, though a few souls have tried and been absolutely humbled for their troubles.
+
+There are many pantheons of Gods in Abrigar, The Greek and The Norse being the most widely known and worshipped. These gods exist as the same characters in Abrigar as they do in their classical myths. Their actual mythological stories, taking place in our world instead of Abrigar, can be either reworked as required or ignored entirely. Their mythos can be considered 'second level cannon', that is, they canonically happened, so long as they don't directly interfere with lore established in a higher level of cannon, and they should be interpreted in the context of Abrigar, not earth.
 
 </div>
 
 <div>
 
-## The People
+## The Timeline
 
-Kings, pirates, merchants, sailors, explorers, and everyone unfortunate enough to get caught between them.
+You may have noticed that years in Abrigar are denoted by the letters 'PC' or 'BC'. While you (the players) haven't discovered the exact meaning of these letters, they are agreed upon and used by almost every culture and every God in Abrigar. The actual reason for this is unknown to the general public, as the different Pantheons don't tend to agree, but nonetheless it is agreed upon and used nearly universally, and therefore followed without question.
 
-The world is shaped by the people who live in it, and the organizations that seek to control it.
+This section will be updated eventually, so apologies for the absence of information. If you have a specific question you can ask your favorite Dungeon Master, but He might not be able to give you a straight answer until you discover for yourself what these letters mean.
+
+I have to have *some* secrets!
 
 </div>
+
+<div className="tiny"> Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj </div> 
 
 </div>

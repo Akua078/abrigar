@@ -138,7 +138,14 @@
   max-width: 1000px;
 }
 
-/* Standard - - - - - - - - - - - - - - - - Standard */
+/* Other - - - - - - - - - - - - - - - - Other */
+
+.standard p {
+  font-size: 0.7rem;
+  line-height: 1.1rem;
+}
+
+/* Mobile - - - - - - - - - - - - - - - - Mobile */
 
 @media screen and (max-width: 700px) {
   .c2 {
