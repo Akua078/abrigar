@@ -10,24 +10,24 @@
 
 :root {
   /* Main colors */
-  --ifm-background-color: #f0e8d8;
-  --ifm-background-surface-color: #e4dac7;
+  --ifm-background-color: #f4f1f8;
+  --ifm-background-surface-color: #e8e3ef;
 
   /* Text */
-  --ifm-color-content: #29251f;
-  --ifm-color-content-secondary: #5a5145;
+  --ifm-color-content: #25232b;
+  --ifm-color-content-secondary: #5c5865;
 
   /* Accent */
-  --ifm-color-primary: #8a5a35;
-  --ifm-color-primary-dark: #794d2e;
-  --ifm-color-primary-darker: #70482b;
-  --ifm-color-primary-darkest: #5c3a23;
-  --ifm-color-primary-light: #996a43;
-  --ifm-color-primary-lighter: #a47751;
-  --ifm-color-primary-lightest: #b58a68;
+  --ifm-color-primary: #69458a;
+  --ifm-color-primary-dark: #5d3d7b;
+  --ifm-color-primary-darker: #52366d;
+  --ifm-color-primary-darkest: #432b59;
+  --ifm-color-primary-light: #79559a;
+  --ifm-color-primary-lighter: #8969a8;
+  --ifm-color-primary-lightest: #9b7bb8;
 
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(70, 50, 100, 0.08);
 }
 
 
@@ -35,23 +35,23 @@
 
 [data-theme='dark'] {
   /* Main colors */
-  --ifm-background-color: #0d151d;
-  --ifm-background-surface-color: #151f29;
+  --ifm-background-color: #10181c;
+  --ifm-background-surface-color: #182328;
 
   /* Text */
-  --ifm-color-content: #e2d9ca;
-  --ifm-color-content-secondary: #aaa092;
+  --ifm-color-content: #e5dccb;
+  --ifm-color-content-secondary: #afa596;
 
   /* Accent */
-  --ifm-color-primary: #c49a6c;
-  --ifm-color-primary-dark: #b5895b;
-  --ifm-color-primary-darker: #aa7e51;
-  --ifm-color-primary-darkest: #8c663f;
-  --ifm-color-primary-light: #cea87e;
-  --ifm-color-primary-lighter: #d6b38d;
-  --ifm-color-primary-lightest: #dec0a0;
+  --ifm-color-primary: #c39a69;
+  --ifm-color-primary-dark: #b48656;
+  --ifm-color-primary-darker: #a4784a;
+  --ifm-color-primary-darkest: #8b613b;
+  --ifm-color-primary-light: #cdaa7d;
+  --ifm-color-primary-lighter: #d8b995;
+  --ifm-color-primary-lightest: #e1c6a9;
 
-  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+  --docusaurus-highlighted-code-line-bg: rgba(220, 200, 170, 0.06);
 }
 
 /* - Custom Fonts and styles - */
@@ -70,7 +70,7 @@
 
 .footer {
   padding: 0.25rem 0;
-  background-color: #4b286d;
+  background-color: #43245f;
 }
 
 .footer__copyright {
@@ -89,12 +89,13 @@
 }
 
 /* Light mode */
-[data-theme='light'] .navbar {
-  background-color: #8b5aa8;
+.navbar {
+  background-color: #43245f;
 }
 
-[data-theme='light'] .navbar {
-  background-color: #76508f;
+.navbar__title,
+.navbar__link {
+  color: #eee4f5;
 }
 
 /* Standard - - - - - - - - - - - - - - - - Standard */
