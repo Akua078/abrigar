@@ -1,5 +1,5 @@
 const sidebars = {
-  tutorialSidebar: [
+  abrigarSidebar: [
 
     {
       type: 'category', label: 'Nations', items: [
