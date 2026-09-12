@@ -166,6 +166,15 @@
   margin: auto;
 }
 
+figure {
+  text-align: center;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+}
+
 
 /* Other - - - - - - - - - - - - - - - - Other */
 
