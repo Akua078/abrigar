@@ -138,12 +138,42 @@
   max-width: 1000px;
 }
 
-/* Other - - - - - - - - - - - - - - - - Other */
+.c2 h1,
+.c2 h2,
+.c2 h3 {
+  font-family: 'Underdog';
+}
+
+/* Tiny - - - - - - - - - - - - - - - - Tiny */
 
 .tiny {
   font-size: 0.7rem;
   line-height: 1.1rem;
   text-align: center;
+}
+
+.tiny h1,
+.tiny h2,
+.tiny h3 {
+  font-family: 'Underdog';
+}
+
+/* Images - - - - - - - - - - - - - - - - Images */
+
+.iconImage {
+  width: 300px;
+  display: block;
+  margin: auto;
+}
+
+
+/* Other - - - - - - - - - - - - - - - - Other */
+
+.tech {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: 'Consolas', serif;
 }
 
 .left_allign {

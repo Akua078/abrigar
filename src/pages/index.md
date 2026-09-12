@@ -52,4 +52,4 @@ I have to have *some* secrets!
 
 </div>
 
-<div className="tiny"> Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj </div> 
+<div className="standard tiny"> Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj </div> 
