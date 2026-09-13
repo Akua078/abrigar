@@ -56,7 +56,7 @@
 
 /* - Custom Fonts and styles - */
 
-/* Hidden - - - - - - - - - - - - - - - - Hidden */
+/* Overrides - - - - - - - - - - - - - - - - Overrides */
 
 .theme-doc-toc-desktop {
   display: none;
@@ -64,6 +64,11 @@
 
 .pagination-nav {
   display: none;
+}
+
+.container {
+  max-width: 1500px;
+  width: 100%;
 }
 
 /* Footer - - - - - - - - - - - - - - - - Footer */
@@ -101,7 +106,7 @@
 /* Standard - - - - - - - - - - - - - - - - Standard */
 .standard {
   text-align: center;
-  max-width: 900px;
+  max-width: 1500px;
   margin: 0 auto;
   font-family: 'Lora', serif;
 }
@@ -136,12 +141,42 @@
   gap: 3rem;
   text-align: center;
   margin: 3rem auto;
-  max-width: 1000px;
+  max-width: 1500px;
 }
 
 .c2 h1,
 .c2 h2,
 .c2 h3 {
+  font-family: 'Underdog';
+}
+
+.c_lrg_rgt {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 3rem;
+  text-align: center;
+  margin: 3rem auto;
+  max-width: 1500px;
+}
+
+.c_lrg_rgt h1,
+.c_lrg_rgt h2,
+.c_lrg_rgt h3 {
+  font-family: 'Underdog';
+}
+
+.c_lrg_lft {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+  text-align: center;
+  margin: 3rem auto;
+  max-width: 1500px;
+}
+
+.c_lrg_lft h1,
+.c_lrg_lft h2,
+.c_lrg_lft h3 {
   font-family: 'Underdog';
 }
 
@@ -151,6 +186,7 @@
   font-size: 0.7rem;
   line-height: 1.1rem;
   text-align: center;
+  font-family: 'Lora', serif;
 }
 
 .tiny h1,
@@ -177,11 +213,18 @@ figure img {
   text-align: center;
 }
 
+.lrgImage {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
 /* Other - - - - - - - - - - - - - - - - Other */
 
 .tech {
   text-align: center;
-  max-width: 900px;
+  max-width: 1500px;
   margin: 0 auto;
   font-family: 'Consolas', serif;
 }

@@ -64,4 +64,8 @@ text
     <figcaption>A little Vespon sitting in the right</figcaption>
     </figure>
 </div>
+
+<div className="tiny left_allign"> Width Test LEFT </div>
+<div className="tiny right_allign"> Width Test RIGHT </div>
+
 </div>
