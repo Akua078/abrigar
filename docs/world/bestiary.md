@@ -8,6 +8,8 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 import AlphaFly from '@site/static/img/Alpha_Wyvernfly.png';
 import TrashPanda from '@site/static/img/TrashPanda.png';
+import SkiffFox from '@site/static/img/SkiffFox.png';
+import BlinkStag from '@site/static/img/BlinkStag.png';
 
 <div className="standard">
 
@@ -17,8 +19,10 @@ import TrashPanda from '@site/static/img/TrashPanda.png';
   image="/img/DragonSketch.png"
 />
 
-
+<div className="intro">
 The World of Abrigar is a massive one, full of life and danger. Monsters lurk around every corner, and many make a career out of cataloguing and understanding them. This is a collection of their efforts, and a menagerie of monsters from around the realm. From terrifying beasts to adorable pets, this is the wildlife of Abrigar.
+</div>
+
 
 
 <div className = "c_lrg_rgt">
@@ -33,6 +37,33 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
     </figure>
 </div>
 </div>
+
+
+
+<div className="c2">
+<div> 
+    <figure className="iconImage">
+    <img src={BlinkStag} />
+    </figure>
+</div>
+<div> 
+    <figure className="iconImage">
+    <img src={SkiffFox} />
+    </figure>
+</div>
+<div>
+## Blink Stag
+
+In thick forests and lush environments, movement is no small task. In brush-choked jungles and dense, dark forests, Blink Stags take full advantage. These large, deer-like creatures use their innate connection to the ethereal plane to slip past obstacles without slowing down. They can easily escape hunters, leaving predators confused and disoriented in their wake. A Blink Stag is often the true test of a master hunter. Some even worship these creatures as fey spirits or entities of chaos, while others simply revere them for the majesty of nature.
+</div>
+<div>
+## Skiff Foxes
+
+Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and fields to hunt rodents and ducks, skiff foxes hunt more elusive prey: magic items. Skiff foxes devour the magic of anything they can get their paws on, from trinkets to artifacts, and the magic sustains them. As such, to merchants and magicians alike, these foxes are worse than rodents: pests magical in nature. Some young mages, however, enjoy taming skiff foxes and even taking them as pets or familiars.
+</div>
+</div>
+
+
 
 <div className = "c_lrg_lft">
 <div> 

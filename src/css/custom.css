@@ -115,6 +115,7 @@
 .standard h2,
 .standard h3 {
   font-family: 'Underdog';
+  text-decoration: underline;
 }
 
 .standard h1 {
@@ -208,7 +209,7 @@ figure img {
 }
 
 .iconImage {
-  width: 300px;
+  width: 400px;
   margin: 0 auto;
   text-align: center;
 }
@@ -236,7 +237,7 @@ figure img {
   position: relative;
 
   margin-bottom: 2rem;
-  
+
 }
 
 .abr-header::before {
@@ -274,6 +275,14 @@ figure img {
 
 .right_allign {
   text-align: right;
+}
+
+.intro {
+  font-size: 1.15rem;
+  line-height: 1.7;
+
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 
