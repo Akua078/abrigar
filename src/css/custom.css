@@ -71,6 +71,11 @@
   width: 100%;
 }
 
+.theme-doc-markdown {
+  max-width: 1500px;
+  width: 100%;
+}
+
 /* Footer - - - - - - - - - - - - - - - - - - - - - - Footer */
 
 .footer {
@@ -105,9 +110,10 @@
 
 /* Standard - - - - - - - - - - - - - - - - Standard */
 .standard {
-  text-align: center;
+  width: 100%;
   max-width: 1500px;
   margin: 0 auto;
+  text-align: center;
   font-family: 'Lora', serif;
 }
 
@@ -145,10 +151,14 @@
   max-width: 1500px;
 }
 
-.c2 h1,
-.c2 h2,
-.c2 h3 {
-  font-family: 'Underdog';
+.c3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  width: 100%;
+  max-width: 1500px;
+  margin: 3rem auto;
+  text-align: center;
 }
 
 .c_lrg_rgt {
@@ -160,12 +170,6 @@
   max-width: 1500px;
 }
 
-.c_lrg_rgt h1,
-.c_lrg_rgt h2,
-.c_lrg_rgt h3 {
-  font-family: 'Underdog';
-}
-
 .c_lrg_lft {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -173,12 +177,6 @@
   text-align: center;
   margin: 3rem auto;
   max-width: 1500px;
-}
-
-.c_lrg_lft h1,
-.c_lrg_lft h2,
-.c_lrg_lft h3 {
-  font-family: 'Underdog';
 }
 
 /* Tiny - - - - - - - - - - - - - - - - - - - - - - - - - Tiny */
@@ -209,7 +207,7 @@ figure img {
 }
 
 .iconImage {
-  width: 400px;
+  width: 350px;
   margin: 0 auto;
   text-align: center;
 }
@@ -225,7 +223,12 @@ figure img {
 
 .abr-header {
   width: 100%;
+  max-width: 1500px;
   height: 375px;
+
+  margin: 0 0 3rem 0;
+
+  box-sizing: border-box;
 
   background-size: cover;
   background-position: center;
@@ -235,9 +238,6 @@ figure img {
   justify-content: center;
 
   position: relative;
-
-  margin-bottom: 2rem;
-
 }
 
 .abr-header::before {
@@ -278,11 +278,12 @@ figure img {
 }
 
 .intro {
+  width: 100%;
+  max-width: 1000px;
+  margin: 3rem auto;
   font-size: 1.15rem;
   line-height: 1.7;
-
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  text-align: center;
 }
 
 
