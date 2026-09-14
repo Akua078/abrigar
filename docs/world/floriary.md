@@ -18,7 +18,7 @@ import GoldenMaple from '@site/static/img/GoldenMaple.png';
 />
 
 <div className="intro">
-The World of Abrigar is a massive one, full of life and danger. Hills and trees, jungles and deserts coat every corner of this world, from the Southern Ice to volcanic islands, to the thick jungles and open fields, Abrigar has no shortage of plant life. Here, that diversity is listed and catalouged as it is understood by those who live in Abrigar, a collection of studies and pictures of the beautiful and dangerous flora of the realm. 
+The World of Abrigar is a massive one, full of life and danger. Hills and trees, jungles and deserts coat every corner of this world, from the Southern Ice to volcanic islands, to the thick jungles and open fields, Abrigar has no shortage of plant life. Here, that diversity is listed and catalogued as it is understood by those who live in Abrigar, a collection of studies and pictures of the beautiful and dangerous flora of the realm. 
 </div>
 
 <div className="c3">
@@ -44,7 +44,7 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 <div>
 ## Ember Poppy
 
-Ember Poppies are native to the deltas of Fratera, east of the Fraguan Range. They are used by mage apprentices as a source of easy mana, their petals infused with a very potent magic, for a flower. They glow at night, lighting feilds in the moonlight with a gentle orange glow, as if they were on fire, hence the name. They are a common potion ingredient, used in many warming elixirs or salves to prevent frostbite. Their petals are warm to the touch.
+Ember Poppies are native to the deltas of Fratera, east of the Fraguan Range. They are used by mage apprentices as a source of easy mana, their petals infused with a very potent magic, for a flower. They glow at night, lighting fields in the moonlight with a gentle orange glow, as if they were on fire, hence the name. They are a common potion ingredient, used in many warming elixirs or salves to prevent frostbite. Their petals are warm to the touch.
 </div>
 
 <div>
