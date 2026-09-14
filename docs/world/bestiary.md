@@ -1,13 +1,22 @@
 ---
 sidebar_position: 1
 title: Bestiary
+hide_title: true
 ---
+
+import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 import AlphaFly from '@site/static/img/Alpha_Wyvernfly.png';
 import TrashPanda from '@site/static/img/TrashPanda.png';
 
 <div className="standard">
-# Bestiary
+
+
+<AbrigarHeader
+  title="Bestiary"
+  image="/img/DragonSketch.png"
+/>
+
 
 The World of Abrigar is a massive one, full of life and danger. Monsters lurk around every corner, and many make a career out of cataloguing and understanding them. This is a collection of their efforts, and a menagerie of monsters from around the realm. From terrifying beasts to adorable pets, this is the wildlife of Abrigar.
 
@@ -15,7 +24,7 @@ The World of Abrigar is a massive one, full of life and danger. Monsters lurk ar
 <div className = "c_lrg_rgt">
 <div> 
 ## Alpha Wyvernfly
-The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The Northern Ice. Some say that these things can be tamed, even ridden as an airborne mount, though those are surely just old wives' tales. This variant of a Wyvernfly is stronger, having a fully functioning stinger to augment its claws and wings. It's incredibly difficult to strike while airborne, and can track its prey for miles. It is said to hold a grudge, be stubborn and difficult to slay, and extremely powerful. An Alpha Wyvernfly has been known to pursue wounded prey for days, abandoning easier meals until the original target is dead. The toxin in its stinger is outrageously dangerous.
+The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The Northern Ice. Some say that these things can be tamed, even ridden as an airborne mount, though those are surely just old wives' tales. This variant of a Wyvernfly is stronger, having a fully functioning stinger to augment its claws and wings. It's incredibly difficult to strike while airborne, and can track its prey for miles. It is said to hold a grudge, be stubborn and difficult to slay, and be extremely powerful. An Alpha Wyvernfly has been known to pursue wounded prey for days, abandoning easier meals until the original target is dead. The toxin in its stinger is outrageously dangerous.
 </div>
 <div> 
     <figure className="lrgImg">

@@ -56,7 +56,7 @@
 
 /* - Custom Fonts and styles - */
 
-/* Overrides - - - - - - - - - - - - - - - - Overrides */
+/* Overrides - - - - - - - - - - - - - - - - - - - - - - Overrides */
 
 .theme-doc-toc-desktop {
   display: none;
@@ -71,7 +71,7 @@
   width: 100%;
 }
 
-/* Footer - - - - - - - - - - - - - - - - Footer */
+/* Footer - - - - - - - - - - - - - - - - - - - - - - Footer */
 
 .footer {
   padding: 0.25rem 0;
@@ -82,7 +82,7 @@
   font-size: 0.7rem;
 }
 
-/* Navbar - - - - - - - - - - - - - - - - Navbar */
+/* Navbar - - - - - - - - - - - - - - - - - - - - - - Navbar */
 
 .navbar {
   background-color: #43245f;
@@ -180,7 +180,7 @@
   font-family: 'Underdog';
 }
 
-/* Tiny - - - - - - - - - - - - - - - - Tiny */
+/* Tiny - - - - - - - - - - - - - - - - - - - - - - - - - Tiny */
 
 .tiny {
   font-size: 0.7rem;
@@ -195,7 +195,7 @@
   font-family: 'Underdog';
 }
 
-/* Images - - - - - - - - - - - - - - - - Images */
+/* Images - - - - - - - - - - - - - - - - - - - - - - Images */
 
 figure {
   text-align: center;
@@ -220,7 +220,46 @@ figure img {
   text-align: center;
 }
 
-/* Other - - - - - - - - - - - - - - - - Other */
+/* Header - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header */
+
+.abr-header {
+  width: 100%;
+  height: 375px;
+
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+
+  margin-bottom: 2rem;
+  
+}
+
+.abr-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.abr-header h1 {
+  position: relative;
+  z-index: 1;
+
+  color: white;
+  font-size: 3rem;
+  margin: 0;
+
+  text-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.8),
+    0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+/* Other - - - - - - - - - - - - - - - - - - - - - - Other */
 
 .tech {
   text-align: center;
@@ -238,9 +277,9 @@ figure img {
 }
 
 
-/* Mobile - - - - - - - - - - - - - - - - Mobile */
+/* Mobile - - - - - - - - - - - - - - - - - - - - - - Mobile */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1500px) {
   .c2 {
     grid-template-columns: 1fr;
     gap: 1rem;
