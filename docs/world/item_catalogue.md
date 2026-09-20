@@ -158,7 +158,7 @@ For those items without a rarity, such as dishes and drinks, other information m
     A thick, chipped claw from a bulette. The claw retains enough of the creature's
     strange subterranean resonance to produce an impressive sound when dragged
     across a hard surface. Scratch a surface with it to produce a loud magical
-    thunk, useful primarily for intimidation.
+    scrape, useful primarily for intimidation.
   </div>
   <div class="item-price">4 gp (claw)</div>
 </div>
@@ -464,7 +464,7 @@ For those items without a rarity, such as dishes and drinks, other information m
   <div class="item-description">
     A single cold, glassy tear shed by a banshee. It remains perfectly intact
     even when dropped or crushed. Throw it onto the ground to release an
-    unsettling whisper audible to anyone within 5 feet. The whisper causes no harm.
+    ear piercing shriek audible to anyone within 300 feet. The noise causes no harm.
   </div>
   <div class="item-price">8 gp (tear)</div>
 </div>
