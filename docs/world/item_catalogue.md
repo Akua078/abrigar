@@ -353,7 +353,7 @@ For those items without a rarity, such as dishes and drinks, other information m
 <div class="item-entry">
   <div class="item-info">
     <strong class="item-title">Unicorn Hair</strong>
-    <span class="item-subtitle">Very Rare</span>
+    <span class="item-subtitle">Exotic</span>
   </div>
   <div class="item-description">
     A single strand of impossibly clean, silvery hair. It retains a faint warmth
@@ -508,6 +508,79 @@ For those items without a rarity, such as dishes and drinks, other information m
     accompanied by an extremely loud dragon sneeze.
   </div>
   <div class="item-price">10 gp (bottle)</div>
+</div>
+
+<div class="item-entry">
+  <div class="item-info">
+    <strong class="item-title">Basilisk Eye</strong>
+    <span class="item-subtitle">Exotic</span>
+  </div>
+  <div class="item-description">
+    A cloudy, yellow eye preserved in a small glass capsule. Even after death,
+    the pupil seems to tighten when something approaches, and staring into it for
+    too long leaves the viewer with an uncomfortable sensation of being watched.
+    Crush the eye to gain advantage on one saving throw against a magical effect
+    that would restrain you.
+  </div>
+  <div class="item-price">50 gp (eye)</div>
+</div>
+
+<div class="item-entry">
+  <div class="item-info">
+    <strong class="item-title">Displacer Beast Heart</strong>
+    <span class="item-subtitle">Exotic</span>
+  </div>
+  <div class="item-description">
+    A small piece of preserved heart taken from a displacer beast. Even after
+    being removed, the tissue seems to occupy several places at once, shifting
+    slightly whenever it is observed directly. Eat a tiny piece to cause your
+    body to briefly inherit the beast's unnatural displacement. For 1 minute,
+    attacks against you have a 10% chance to miss regardless of the attack roll.
+  </div>
+  <div class="item-price">40 gp (piece)</div>
+</div>
+
+<div class="item-entry">
+  <div class="item-info">
+    <strong class="item-title">Wyvern Venom</strong>
+    <span class="item-subtitle">Exotic</span>
+  </div>
+  <div class="item-description">
+    A thick, amber venom collected from the stinger of a wyvern. It gives off
+    a faintly metallic smell and seems to cling to anything it touches. Coat
+    one weapon with the venom. The next creature struck by the weapon takes an
+    additional 2d6 poison damage. Once applied, the venom is completely spent.
+  </div>
+  <div class="item-price">30 gp (vial)</div>
+</div>
+
+<div class="item-entry">
+  <div class="item-info">
+    <strong class="item-title">Blink Stag Antler Shaving</strong>
+    <span class="item-subtitle">Rare</span>
+  </div>
+  <div class="item-description">
+    A thin shaving of antler taken from a blink stag. The fragment seems to
+    occupy the edge of your vision a moment before appearing where it actually
+    rests. As a bonus action, crush the shaving to teleport 10 feet to an
+    unoccupied space you can see.
+  </div>
+  <div class="item-price">25 gp (shaving)</div>
+</div>
+
+<div class="item-entry">
+  <div class="item-info">
+    <strong class="item-title">Water Elemental Essence</strong>
+    <span class="item-subtitle">Exotic</span>
+  </div>
+  <div class="item-description">
+    A swirling mass of water sealed within a heavy glass vessel. It never settles,
+    constantly folding over itself as though caught in an invisible current.
+    Pour the essence over yourself to temporarily take on some of the nature of
+    the elemental. For 10 minutes, you can breathe underwater and gain a swimming
+    speed equal to your walking speed.
+  </div>
+  <div class="item-price">50 gp (vial)</div>
 </div>
 
 
