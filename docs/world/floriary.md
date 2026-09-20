@@ -24,19 +24,19 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 <div className="c3">
 
 <div>
-    <figure className="iconImage">
+    <figure className="nrmlImage">
     <img src={EmberPoppy} />
     </figure>
 </div>
 
 <div>
-    <figure className="iconImage">
+    <figure className="nrmlImage">
     <img src={GlassFern} />
     </figure>
 </div>
 
 <div>
-    <figure className="iconImage">
+    <figure className="nrmlImage">
     <img src={GoldenMaple} />
     </figure>
 </div>

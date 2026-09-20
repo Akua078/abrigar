@@ -206,7 +206,7 @@ figure img {
   text-align: center;
 }
 
-.iconImage {
+.nrmlImage {
   width: 350px;
   margin: 0 auto;
   text-align: center;
@@ -284,6 +284,49 @@ figure img {
   font-size: 1.15rem;
   line-height: 1.7;
   text-align: center;
+}
+
+/* Item Catalogue - - - - - - - - - - - - - - - - - - - - - - Item Catalogue */
+
+/* Item entry */
+.item-entry {
+  display: grid;
+  grid-template-columns: 180px 1fr 140px;
+  gap: 18px;
+  align-items: start;
+  margin: 0 0 35px 0;
+}
+
+/* Item name + rarity/details */
+.item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.item-title {
+  color: #d65cff;
+  font-weight: bold;
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+.item-subtitle {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+/* Description */
+.item-description {
+  margin: 0;
+  line-height: 1.45;
+}
+
+/* Price */
+.item-price {
+  margin: 0;
+  white-space: nowrap;
+  text-align: left;
 }
 
 

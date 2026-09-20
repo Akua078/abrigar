@@ -41,12 +41,12 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 
 <div className="c2">
 <div> 
-    <figure className="iconImage">
+    <figure className="nrmlImage">
     <img src={BlinkStag} />
     </figure>
 </div>
 <div> 
-    <figure className="iconImage">
+    <figure className="nrmlImage">
     <img src={SkiffFox} />
     </figure>
 </div>

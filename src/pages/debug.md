@@ -48,7 +48,7 @@ text
 </div>
 </div>
 
-<figure className="iconImage">
+<figure className="nrmlImage">
   <img src={Vespon} />
   <figcaption>A little Vespon sitting in the center</figcaption>
 </figure>
