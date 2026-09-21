@@ -10,6 +10,7 @@ import AlphaFly from '@site/static/img/Alpha_Wyvernfly.png';
 import TrashPanda from '@site/static/img/TrashPanda.png';
 import SkiffFox from '@site/static/img/SkiffFox.png';
 import BlinkStag from '@site/static/img/BlinkStag.png';
+import phaseMoth from '@site/static/img/phaseMoth.png';
 
 <div className="standard">
 
@@ -73,6 +74,18 @@ Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and
 <div> 
 ## Trash Pandas
 These hulking creatures are the waste-disposal solution of many major cities in Abrigar. No one knows where they're native to, but they've been selectively bred and adapted to the needs of different regions. They'll eat just about anything they can fit into their massive mouths, which contain seventeen rows of teeth capable of smashing even metal into paste. Trash Pandas need very little sustenance or water and are often extremely lazy. If their food is within reach, they'll move less than twenty feet in a day, earning them a reputation for being sleepy. Don't let the cuddly exterior fool you, though. When hungry, they'll turn on their keepers without a second thought. To a hungry Trash Panda, there is no difference between rotting meat and living flesh.
+</div>
+</div>
+
+<div className = "c_lrg_rgt">
+<div> 
+    ## Phase Moths
+    Phase Moths are small, pale blue insects that flutter around areas of magic and mystery. They are drawn to darkness, both moral and literal, and tend to gather in swarms of a few hundred. What makes them unique is their lack of attachment to the Material Plane. As they flutter about, they fade in and out of reality, sporadically phasing into other Inner Planes, hence their name. Remarkably, a swarm tends to occupy the same relative location on each plane it passes through. Because of this, mages powerful enough to travel between planes often seek out Phase Moths as guides. A swarm encountered on one plane may mark a place of significance on another, allowing experienced planar travelers to use the moths as living landmarks across the planes.
+</div>
+<div> 
+    <figure className="lrgImg">
+    <img src={phaseMoth} />
+    </figure>
 </div>
 </div>
 
