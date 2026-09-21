@@ -17,7 +17,7 @@ import phaseMoth from '@site/static/img/phaseMoth.png';
 
 <AbrigarHeader
   title="Bestiary"
-  image="/img/dragonSketch.png"
+  image="/img/dragonSketchTwo.png"
 />
 
 <div className="intro">
