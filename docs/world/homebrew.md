@@ -198,7 +198,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
     ### Matsonian Sealskin Cloak
     <div className="tiny"> Wondrous Item, Common </div>
 
-    This cloak prevents the wearer from getting soaked, even in the harshest storms. It is commonly found on Kulcinian Sailors, often decorated with the teeth of beasts for clamps or other trophies.
+    This cloak prevents the wearer from getting soaked, even in the harshest storms. It is commonly found on Kulcinian Sailors, often decorated with the teeth of beasts for clamps or other trophies. A well-made Marsonian seal cloak can last for many years, and is considered by many locals to be an essential piece of clothing for life on Marso.
 
 </div>
 
