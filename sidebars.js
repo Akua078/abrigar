@@ -37,6 +37,8 @@ const sidebars = {
         'world/timeline',
         'world/bestiary',
         'world/floriary',
+        'world/holidays_and_seasons',
+        'world/biomes',
         'world/item_catalogue',
         'world/homebrew',
       ],
