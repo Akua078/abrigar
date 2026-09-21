@@ -9,6 +9,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 import EmberPoppy from '@site/static/img/EmberPoppy.png';
 import GlassFern from '@site/static/img/GlassFern.png';
 import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
+import jungleRoseThree from '@site/static/img/jungleRoseThree.png'; 
 
 <div className="standard">
 
@@ -19,6 +20,22 @@ import GoldenMaple from '@site/static/img/GoldenMaple.png';
 
 <div className="intro">
 The World of Abrigar is a massive one, full of life and danger. Hills and trees, jungles and deserts coat every corner of this world, from the Southern Ice to volcanic islands, to the thick jungles and open fields, Abrigar has no shortage of plant life. Here, that diversity is listed and catalogued as it is understood by those who live in Abrigar, a collection of studies and pictures of the beautiful and dangerous flora of the realm. 
+</div>
+
+<div className = "c_lrg_lft">
+
+<div>
+    <figure className="lrgImg">
+    <img src={jungleRoseThree} />
+    </figure>
+</div>
+
+<div>
+    ## Anaxin Jungle Rose
+
+    The Anaxin Jungle Lily is the national flower of Gacte, and a mythical flower in its own right. Legend says it blooms in the deepest hidden corners of the jungle only briefly under the full moon, and otherwise hides its beauty. Most believe it does not exist. It is said to have incredible healing abilities, and that it can bring a person back from the dead, though no such account has ever been verified. 
+</div>
+
 </div>
 
 <div className="c3">

@@ -13,6 +13,13 @@ This page is for website development purposes! This is where I test my code to m
 TLDR: Scram! But also how did you get here? 
 </div>
 :::
+
+:::warning[WIP]
+<div className = "tech">
+This page is a work in progress! Please enjoy whatever content is here but be aware that this is still under construction. Web development is hard!
+</div>
+:::
+
 :::danger[Spoliers!]
 <div className = "tech">
 Look out! This page contains spoilers that are not beholden to the general rules! That is, lore here may not be widely known to the public and can be considered special knowledge! Here be dragons!
