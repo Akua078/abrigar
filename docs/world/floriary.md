@@ -8,7 +8,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 import EmberPoppy from '@site/static/img/EmberPoppy.png';
 import GlassFern from '@site/static/img/GlassFern.png';
-import GoldenMaple from '@site/static/img/GoldenMaple.png';
+import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
 
 <div className="standard">
 

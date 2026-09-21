@@ -6,8 +6,10 @@ title: World
 import Link from '@docusaurus/Link';
 import IMG_Map from '@site/static/img/Map.png';
 import IMG_Timeline from '@site/static/img/Timeline.png';
+
 import IMG_Bestiary from '@site/static/img/Bestiary.png';
 import IMG_Floriary from '@site/static/img/Floriary.png';
+
 import IMG_Item_Catalogue from '@site/static/img/item_catalogue.png';
 import IMG_Homebrew from '@site/static/img/Homebrew.png';
 
