@@ -15,7 +15,7 @@ import jungleRoseThree from '@site/static/img/jungleRoseThree.png';
 
 <AbrigarHeader
   title="Biomes"
-  image="/img/FloriaryHeader.png"
+  image="/img/biomesHeader.png"
 />
 
 <div className="intro">

@@ -161,6 +161,16 @@
   text-align: center;
 }
 
+.c4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 0.75fr));
+  gap: 1rem;
+  width: 100%;
+  max-width: 1500px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
 .c_lrg_rgt {
   display: grid;
   grid-template-columns: 1fr 2fr;
