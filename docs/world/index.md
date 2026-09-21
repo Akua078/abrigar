@@ -8,6 +8,8 @@ import IMG_Map from '@site/static/img/Map.png';
 import IMG_Timeline from '@site/static/img/Timeline.png';
 import IMG_Bestiary from '@site/static/img/Bestiary.png';
 import IMG_Floriary from '@site/static/img/Floriary.png';
+import IMG_Item_Catalogue from '@site/static/img/item_catalogue.png';
+import IMG_Homebrew from '@site/static/img/Homebrew.png';
 
 <div className="standard">
 <u> 
@@ -42,7 +44,18 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
     </Link>
 </div>
 
+<div>
+    <Link to="/docs/world/item_catalogue">
+    <img src={IMG_Item_Catalogue} />
+    </Link>
 </div>
 
+<div>
+    <Link to="/docs/world/homebrew">
+    <img src={IMG_Homebrew} />
+    </Link>
+</div>
+
+</div>
 </div>
 

@@ -16,7 +16,7 @@ import BlinkStag from '@site/static/img/BlinkStag.png';
 
 <AbrigarHeader
   title="Bestiary"
-  image="/img/DragonSketch.png"
+  image="/img/dragonSketch.png"
 />
 
 <div className="intro">

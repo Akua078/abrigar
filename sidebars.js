@@ -38,6 +38,7 @@ const sidebars = {
         'world/bestiary',
         'world/floriary',
         'world/item_catalogue',
+        'world/homebrew',
       ],
     },
 
