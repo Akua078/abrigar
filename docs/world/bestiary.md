@@ -15,6 +15,7 @@ import frostGeckoTwo from '@site/static/img/frostGeckoTwo.png';
 import paleGolem from '@site/static/img/paleGolem.png';
 import temporalAlk from '@site/static/img/temporalAlk.png';
 import marsoSeal from '@site/static/img/marsoSeal.png';
+import goregull from '@site/static/img/goregull.png';
 
 <div className="standard">
 
@@ -149,6 +150,26 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
     <figure className="lrgImg">
     <img src={marsoSeal} />
     </figure>
+</div>
+</div>
+
+<div className = "c3">
+<div>
+## Goregulls
+
+Goregulls are deceptively intelligent predators found throughout the streets and rooftops of Lewe. They hunt in coordinated flocks, using their sharp beaks and powerful talons to tear apart prey much larger than themselves. They are capable of opening latches, breaking windows, and learning which people and buildings provide reliable food. Goregulls deliberately wound their prey and leave it bleeding in the street, attracting Sanguine Rats with the scent of blood before devouring the rats themselves, and what is left of their prey. They enjoy hunting humanoids, particularly the small or weak. Despite their intelligence and brutality, Goregulls look remarkably ordinary, causing many visitors to mistake them for harmless coastal birds until it is far, far too late.
+</div>
+
+<div>
+    <figure className="iconImg">
+    <img src={goregull} />
+    </figure>
+</div>
+
+<div>
+## Sanguine Rats
+
+These tiny beasts give a literal meaning to "bloodthirsty." They use their long, grotesque tongues to suck blood from the cobblestones of Lewe, their red-stained streets cleaned by these brown, furry vermin. Blood sustains them, and despite their disgusting appearance, they are relatively harmless. They are unhygienic, as most rats are, but lack the fangs necessary to bite effectively, relying almost entirely on their tongues for feeding. As such, they sit near the bottom of Lewe's food chain, and are often a meal for the urchins of the Anarchous nation.
 </div>
 </div>
 
