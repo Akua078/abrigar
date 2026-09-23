@@ -10,6 +10,7 @@ import EmberPoppy from '@site/static/img/EmberPoppy.png';
 import GlassFern from '@site/static/img/GlassFern.png';
 import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
 import jungleRoseThree from '@site/static/img/jungleRoseThree.png'; 
+import auroraKelp from '@site/static/img/auroraKelp.png'; 
 
 <div className="standard">
 
@@ -74,6 +75,22 @@ In the heat of the Null Wastes, usually hidden in oases and the shaded caves of 
 ## Golden Maple
 
 The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, found primarily near Coshpolia. They have beautiful golden leaves that sparkle faintly in the sun, almost reflective, like gold. They are very common, but are prized as a symbol of Visian peace and the fertility of the region.
+</div>
+
+</div>
+
+<div className = "c_lrg_rgt">
+
+<div>
+    ## Aurora Kelp
+
+    Ishkari can be a cold, grueling place to live. Fishing all day, every day, can make a sailor miserable. Fortunately, the ocean is not without its beauty. Large masses of kelp can be found in the water, and at night, under the soft light of the moon, Aurora Kelp begins to glow. Brilliant purples, blues, and greens light up the night ocean, creating a serene atmosphere. When in bloom under the full moon, Aurora Kelp releases small flowers that float on the surface of the waves, like soft, pale purple lotus flowers, to spread its pods. These flowers are often collected by lonely sailors, and given as a gift to their wives back on shore. 
+</div>
+
+<div>
+    <figure className="lrgImg">
+    <img src={auroraKelp} />
+    </figure>
 </div>
 
 </div>
