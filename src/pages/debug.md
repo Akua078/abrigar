@@ -20,7 +20,7 @@ This page is a work in progress! Please enjoy whatever content is here but be aw
 </div>
 :::
 
-:::danger[Spoliers!]
+:::danger[Spoilers!]
 <div className = "tech">
 Look out! This page contains spoilers that are not beholden to the general rules! That is, lore here may not be widely known to the public and can be considered special knowledge! Here be dragons!
 </div>
@@ -72,7 +72,7 @@ text
     </figure>
 </div>
 
-<div className="tiny left_allign"> Width Test LEFT </div>
-<div className="tiny right_allign"> Width Test RIGHT </div>
+<div className="tiny left_align"> Width Test LEFT </div>
+<div className="tiny right_align"> Width Test RIGHT </div>
 
 </div>
