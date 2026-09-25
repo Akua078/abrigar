@@ -10,7 +10,9 @@ import EmberPoppy from '@site/static/img/EmberPoppy.png';
 import GlassFern from '@site/static/img/GlassFern.png';
 import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
 import jungleRoseThree from '@site/static/img/jungleRoseThree.png';
-import leeCarving from '@site/static/img/leeCarving.png';  
+import leeCarving from '@site/static/img/leeCarving.png'; 
+import summerDay from '@site/static/img/summerDay.png';
+import winterDay from '@site/static/img/winterDay.png';   
 
 <div className="standard">
 
@@ -88,42 +90,30 @@ Aetherfall
 
 </div>
 
-<div className="c3">
+<div className="c2">
 
 <div>
     <figure className="nrmlImage">
-    <img src={EmberPoppy} />
+    <img src={summerDay} />
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={GlassFern} />
+    <img src={winterDay} />
     </figure>
 </div>
 
 <div>
-    <figure className="nrmlImage">
-    <img src={GoldenMaple} />
-    </figure>
+## Highsun Solstice
+
+The Highsun Solstice is the summer solstice in Abrigar. On Highsun 28th, the longest, hottest day of the year takes place. Many plants flourish on this day, gathering huge amounts of sunlight before autumn inevitably takes away the warm summer air. 
 </div>
 
 <div>
-## Ember Poppy
+## Icebear Low
 
-Ember Poppies are native to the deltas of Fratera, east of the Fraguan Range. They are used by mage apprentices as a source of easy mana, their petals infused with a very potent magic, for a flower. They glow at night, lighting fields in the moonlight with a gentle orange glow, as if they were on fire, hence the name. They are a common potion ingredient, used in many warming elixirs or salves to prevent frostbite. Their petals are warm to the touch.
-</div>
-
-<div>
-## Glass Needle Fern
-
-In the heat of the Null Wastes, usually hidden in oases and the shaded caves of the cliffs, a proficient forager may find a fern-like plant that grows long, transparent spines, which are incredibly sharp. This is a glass needle fern, and its spines, or 'needles' are a common good in the wastes that is sold as a sewing needle, wind chimes, or even for knitting.
-</div>
-
-<div>
-## Golden Maple
-
-The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, found primarily near Coshpolia. They have beautiful golden leaves that sparkle faintly in the sun, almost reflective, like gold. They are very common, but are prized as a symbol of Visian peace and the fertility of the region.
+In Icebear, the winter solstice of Abrigar hits. The Moon grows as close to Abrigar as it ever does, and many magical aspects of the world begin to react. Aurora Kelp glows as if the Ishkaran Sea were aflame, followers of Bisu are empowered, and phase moths flicker frequently as the border between the ethereal and the material weakens marginally. 
 </div>
 
 </div>

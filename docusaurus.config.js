@@ -77,7 +77,7 @@ const config = {
 
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Abrigar. All rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Thomas Eastwood. Abrigar and its original content are the property of Thomas Eastwood.`,
     },
 
     prism: {
