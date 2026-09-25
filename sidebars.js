@@ -34,7 +34,7 @@ const sidebars = {
       },
       items: [
         'world/map',
-        'world/timeline',
+        'world/people',
         'world/bestiary',
         'world/floriary',
         'world/holidays_and_seasons',

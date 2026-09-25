@@ -5,7 +5,7 @@ title: World
 
 import Link from '@docusaurus/Link';
 import IMG_Map from '@site/static/img/Map.png';
-import IMG_Timeline from '@site/static/img/Timeline.png';
+import IMG_People from '@site/static/img/People.png';
 import IMG_Bestiary from '@site/static/img/Bestiary.png';
 import IMG_Floriary from '@site/static/img/Floriary.png';
 import IMG_Item_Catalogue from '@site/static/img/Item_Catalogue.png';
@@ -29,8 +29,8 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 </div>
 
 <div>
-    <Link to="/docs/world/timeline">
-    <img src={IMG_Timeline} />
+    <Link to="/docs/world/people">
+    <img src={IMG_People} />
     </Link>
 </div>
 
