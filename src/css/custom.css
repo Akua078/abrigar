@@ -125,6 +125,11 @@
   letter-spacing: 0.05em;
 }
 
+.standard h1.massive {
+  font-size: 7rem;
+}
+
+
 .standard h2 {
   font-size: 2.2rem;
   font-weight: 400;
@@ -228,7 +233,7 @@ figure img {
   margin-bottom: 0.5rem;
 }
 
-/* Header - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header */
+/* Headers - - - - - - - - - - - - - - - - - - - - - - - - - - - - Headers */
 
 .abr-header {
   width: 100%;
@@ -267,6 +272,50 @@ figure img {
   text-shadow:
     0 2px 4px rgba(0, 0, 0, 0.8),
     0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+.massive-header {
+  width: 100%;
+  max-width: 1500px;
+  height: 700px;
+
+  margin: 0 auto 4rem auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+
+  background-image: url('/img/your-image.png');
+  background-size: cover;
+  background-position: center;
+
+  overflow: hidden;
+}
+
+.massive-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.massive-header h1 {
+  position: relative;
+  z-index: 1;
+
+  color: white;
+  font-family: 'Underdog';
+  font-size: 7rem;
+  text-align: center;
+
+  margin: 0;
+
+  text-shadow:
+    0 3px 6px rgba(0, 0, 0, 0.8),
+    0 6px 20px rgba(0, 0, 0, 0.7);
 }
 
 /* Other - - - - - - - - - - - - - - - - - - - - - - Other */

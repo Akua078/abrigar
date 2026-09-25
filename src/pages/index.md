@@ -4,9 +4,15 @@ title: Abrigar
 hide_table_of_contents: true
 ---
 
+import AbrigarHeader from '@site/src/components/AbrigarHeader';
+
 <div className="standard">
 
-# Abrigar
+<AbrigarHeader
+  title=" "
+  image="/img/tempHeader.png"
+/>
+
 
 Welcome, wandering Soul, to Abrigar.
 
