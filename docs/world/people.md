@@ -19,7 +19,7 @@ import yaunTi from '@site/static/img/yaunTi.png';
 />
 
 <div className="intro">
-The World of Abrigar is a massive one, full of life and danger. Monsters lurk around every corner, and many make a career out of cataloguing and understanding them. This is a collection of their efforts, and a menagerie of monsters from around the realm. From terrifying beasts to adorable pets, this is the wildlife of Abrigar.
+Abrigar is full of people. From all walks of life, and all species, all times, all ages and shapes and sizes, people fill this world with life and give it meaning. Here is a list of many of the unique species that can be found in Abrigar, some mundane and some mystical, though each shines in their own ways. 
 </div>
 
 <div className = "c_lrg_lft">
