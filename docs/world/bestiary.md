@@ -16,6 +16,7 @@ import paleGolem from '@site/static/img/paleGolem.png';
 import temporalAlk from '@site/static/img/temporalAlk.png';
 import marsoSeal from '@site/static/img/marsoSeal.png';
 import goregull from '@site/static/img/goregull.png';
+import rojo from '@site/static/img/rojo.png';
 
 <div className="standard">
 
@@ -170,6 +171,27 @@ Goregulls are deceptively intelligent predators found throughout the streets and
 ## Sanguine Rats
 
 These tiny beasts give a literal meaning to "bloodthirsty." They use their long, grotesque tongues to suck blood from the cobblestones of Lewe, their red-stained streets cleaned by these brown, furry vermin. Blood sustains them, and despite their disgusting appearance, they are relatively harmless. They are unhygienic, as most rats are, but lack the fangs necessary to bite effectively, relying almost entirely on their tongues for feeding. As such, they sit near the bottom of Lewe's food chain, and are often a meal for the urchins of the Anarchous nation.
+</div>
+</div>
+
+<div className="c2">
+<div> 
+    <figure className="nrmlImage">
+    <img src={rojo} />
+    </figure>
+</div>
+<div> 
+    <figure className="nrmlImage">
+    <img src={SkiffFox} />
+    </figure>
+</div>
+<div>
+## Rojos
+
+Rojos are elegant, strange fish that float and glide through the water like clouds in the sky. They glow a brilliant red, and travel in swarms of hundreds. They can be found in the Koralian seas most easily, though people report sightings near Marso and even further north into the ice. 
+</div>
+<div>
+## Entry
 </div>
 </div>
 
