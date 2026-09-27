@@ -12,6 +12,7 @@ import IMG_Item_Catalogue from '@site/static/img/Item_Catalogue.png';
 import IMG_Homebrew from '@site/static/img/Homebrew.png';
 import IMG_HolidaysAndSeasons from '@site/static/img/HolidaysAndSeasons.png';
 import IMG_Biomes from '@site/static/img/Biomes.png';
+import IMG_Cuisine from '@site/static/img/Cuisine.png';
 
 <div className="standard">
 <u> 
@@ -20,17 +21,23 @@ import IMG_Biomes from '@site/static/img/Biomes.png';
 
 Abrigar is a world full of adventure and mystery, where danger lurks around every corner. From fantastic monsters to pests scurrying through alleys, from massive continents to tiny islands, there is no shortage of places and things to explore. 
 
-<div className="c2">
-
 <div>
     <Link to="/docs/world/map">
     <img src={IMG_Map} />
     </Link>
 </div>
 
+<div className="c2">
+
 <div>
     <Link to="/docs/world/people">
     <img src={IMG_People} />
+    </Link>
+</div>
+
+<div>
+    <Link to="/docs/world/cuisine">
+    <img src={IMG_Cuisine} />
     </Link>
 </div>
 

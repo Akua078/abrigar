@@ -35,6 +35,7 @@ const sidebars = {
       items: [
         'world/map',
         'world/people',
+        'world/cuisine',
         'world/bestiary',
         'world/floriary',
         'world/holidays_and_seasons',
