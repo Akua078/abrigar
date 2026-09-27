@@ -4,23 +4,13 @@ title: Holidays and Seasons
 hide_title: true
 ---
 
-import AbrigarHeader from '@site/src/components/AbrigarHeader';
-
-import EmberPoppy from '@site/static/img/EmberPoppy.png';
-import GlassFern from '@site/static/img/GlassFern.png';
-import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
-import jungleRoseThree from '@site/static/img/jungleRoseThree.png';
-import leeCarving from '@site/static/img/leeCarving.png'; 
-import summerDay from '@site/static/img/summerDay.png';
-import winterDay from '@site/static/img/winterDay.png'; 
-import notSanta from '@site/static/img/notSanta.png';
-import greenMoonSmall from '@site/static/img/greenMoonSmall.png';    
+import AbrigarHeader from '@site/src/components/AbrigarHeader'; 
 
 <div className="standard">
 
 <AbrigarHeader
   title="Holidays and Seasons"
-  image="/img/greenMoon.png"
+  image="/img/world/greenMoon.png"
   imagePosition = "top"
 />
 
@@ -77,7 +67,7 @@ Aetherfall
 
 <div>
     <figure className="lrgImg">
-    <img src={leeCarving} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -96,13 +86,13 @@ Aetherfall
 
 <div>
     <figure className="nrmlImage">
-    <img src={summerDay} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={winterDay} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -124,7 +114,7 @@ In Icebear, the winter solstice of Abrigar hits. The Moon grows as close to Abri
 
 <div>
     <figure className="nrmlImage">
-    <img src={notSanta} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -146,7 +136,7 @@ The last day of the year was not decided arbitrarily, less of a holiday, more of
 
 <div>
     <figure className="nrmlImage">
-    <img src={greenMoonSmall} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 

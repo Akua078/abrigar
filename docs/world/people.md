@@ -6,16 +6,12 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
-import human from '@site/static/img/human.png'; 
-import snowTabaxi from '@site/static/img/snowTabaxi.png'; 
-import warforged from '@site/static/img/warforged.png'; 
-import yaunTi from '@site/static/img/yaunTi.png'; 
 
 <div className = "standard">
 
 <AbrigarHeader
   title="People"
-  image="/img/peopleBanner.png"
+  image="/img/world/peopleBanner.png"
 />
 
 <div className="intro">
@@ -25,7 +21,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div className = "c_lrg_lft">
 <div>
     <figure className="lrgImg">
-    <img src={human} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -52,7 +48,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 
 <div>
     <figure className="lrgImg">
-    <img src={snowTabaxi} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 </div>
@@ -60,7 +56,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div className = "c_lrg_lft">
 <div>
     <figure className="lrgImg">
-    <img src={warforged} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -87,7 +83,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 
 <div>
     <figure className="lrgImg">
-    <img src={yaunTi} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 </div>

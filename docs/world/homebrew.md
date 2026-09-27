@@ -6,31 +6,11 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
-import IDCasterAmulet from '@site/static/img/IDCasterAmulet.jpg';
-import spellTotem from '@site/static/img/spellTotem.png';
-import sageDagger from '@site/static/img/sageDagger.png';
-import memoryCrystal from '@site/static/img/memoryCrystal.png';
-import dBlade from '@site/static/img/dBlade.png';
-import owlbearArmor from '@site/static/img/owlbearArmor.png';
-import emberKeys from '@site/static/img/emberKeys.png';
-import frostGlobe from '@site/static/img/frostGlobe.png';
-
-import whisperingConch from '@site/static/img/whisperingConch.png';
-import discordStaff from '@site/static/img/discordStaff.png';
-import greenSwordReference from '@site/static/img/greenSwordReference.png';
-
-import elana from '@site/static/img/elana.png';
-import greenMoonPotion from '@site/static/img/greenMoonPotion.png';
-import twistedCompass from '@site/static/img/twistedCompass.png';
-
-import sealCloak from '@site/static/img/sealCloak.png';
-import glassNeedle from '@site/static/img/glassNeedle.png';
-
 <div className="standard">
 
 <AbrigarHeader
   title="Homebrew"
-  image="/img/wizardworkshop.png"
+  image="/img/world/wizardworkshop.png"
 />
 
 <div className="intro">
@@ -41,19 +21,19 @@ This page contains lots of homebrew stats and pictures, of items, artifacts, and
 
 <div>
     <figure className="nrmlImage">
-    <img src={IDCasterAmulet} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={spellTotem} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={sageDagger} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -83,13 +63,13 @@ A broken piece of a wandering Monk's horn, snapped off in a battle with an elite
 
 <div> 
     <figure className="nrmlImage">
-    <img src={memoryCrystal} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={dBlade} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -114,20 +94,20 @@ This crystaline blade can be used as a very powerful ritual focus. If implemente
 This armor is for an owlbear of an infernal army. A Tiefling Demon Lord is said to ride one in the massive civil war currently raging through the hells. Though such rumors are ridiculous, and no scholar of academic credit would ever buy into such nonsense.
 
 <figure className="lrgImage">
-<img src={owlbearArmor} />
+![Vespon](/img/Vespon.png)
 </figure>
 
 <div className = "c2">
 
 <div> 
     <figure className="nrmlImage">
-    <img src={emberKeys} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={frostGlobe} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -151,19 +131,19 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    <img src={whisperingConch} />
+    ![Vespon](/img/Vespon.png)
     </figure> 
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={discordStaff} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={greenSwordReference} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -190,7 +170,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    <img src={sealCloak} />
+    ![Vespon](/img/Vespon.png)
     </figure> 
 </div>
 
@@ -204,7 +184,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    <img src={glassNeedle} />
+    ![Vespon](/img/Vespon.png)
     </figure> 
     ### Imbued Glass Needle
     <div className="tiny"> Wondrous Item, Common </div>
@@ -239,19 +219,19 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    <img src={elana} />
+    ![Vespon](/img/Vespon.png)
     </figure> 
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={greenMoonPotion} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    <img src={twistedCompass} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 

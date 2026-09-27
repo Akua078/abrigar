@@ -6,16 +6,11 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
-import EmberPoppy from '@site/static/img/EmberPoppy.png';
-import GlassFern from '@site/static/img/GlassFern.png';
-import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
-import jungleRoseThree from '@site/static/img/jungleRoseThree.png'; 
-
 <div className="standard">
 
 <AbrigarHeader
   title="Biomes"
-  image="/img/biomesHeader.png"
+  image="/img/world/biomesHeader.png"
 />
 
 <div className="intro">
@@ -26,7 +21,7 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="lrgImg">
-    <img src={jungleRoseThree} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -42,19 +37,19 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="nrmlImage">
-    <img src={EmberPoppy} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={GlassFern} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={GoldenMaple} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 

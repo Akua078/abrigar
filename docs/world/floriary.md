@@ -6,17 +6,11 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
-import EmberPoppy from '@site/static/img/EmberPoppy.png';
-import GlassFern from '@site/static/img/GlassFern.png';
-import GoldenMaple from '@site/static/img/GoldenMaple.png'; 
-import jungleRoseThree from '@site/static/img/jungleRoseThree.png'; 
-import auroraKelp from '@site/static/img/auroraKelp.png'; 
-
 <div className="standard">
 
 <AbrigarHeader
   title="Floriary"
-  image="/img/FloriaryHeader.png"
+  image="/img/world/FloriaryHeader.png"
 />
 
 <div className="intro">
@@ -27,7 +21,7 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="lrgImg">
-    <img src={jungleRoseThree} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -43,19 +37,19 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="nrmlImage">
-    <img src={EmberPoppy} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={GlassFern} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    <img src={GoldenMaple} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -89,7 +83,7 @@ The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, f
 
 <div>
     <figure className="lrgImg">
-    <img src={auroraKelp} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 

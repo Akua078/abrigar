@@ -3,17 +3,6 @@ sidebar_position: 1
 title: World
 ---
 
-import Link from '@docusaurus/Link';
-import IMG_Map from '@site/static/img/Map.png';
-import IMG_People from '@site/static/img/People.png';
-import IMG_Bestiary from '@site/static/img/Bestiary.png';
-import IMG_Floriary from '@site/static/img/Floriary.png';
-import IMG_Item_Catalogue from '@site/static/img/Item_Catalogue.png';
-import IMG_Homebrew from '@site/static/img/Homebrew.png';
-import IMG_HolidaysAndSeasons from '@site/static/img/HolidaysAndSeasons.png';
-import IMG_Biomes from '@site/static/img/Biomes.png';
-import IMG_Cuisine from '@site/static/img/Cuisine.png';
-
 <div className="standard">
 <u> 
 # The World of Abrigar
@@ -23,7 +12,7 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/map">
-    <img src={IMG_Map} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
@@ -31,49 +20,49 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/people">
-    <img src={IMG_People} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/cuisine">
-    <img src={IMG_Cuisine} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/bestiary">
-    <img src={IMG_Bestiary} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/floriary">
-    <img src={IMG_Floriary} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/holidays_and_seasons">
-    <img src={IMG_HolidaysAndSeasons} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/biomes">
-    <img src={IMG_Biomes} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/item_catalogue">
-    <img src={IMG_Item_Catalogue} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/homebrew">
-    <img src={IMG_Homebrew} />
+    ![Vespon](/img/Vespon.png)
     </Link>
 </div>
 

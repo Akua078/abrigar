@@ -6,24 +6,11 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
-import AlphaFly from '@site/static/img/Alpha_Wyvernfly.png';
-import TrashPanda from '@site/static/img/TrashPanda.png';
-import SkiffFox from '@site/static/img/SkiffFox.png';
-import BlinkStag from '@site/static/img/BlinkStag.png';
-import phaseMoth from '@site/static/img/phaseMoth.png';
-import frostGeckoTwo from '@site/static/img/frostGeckoTwo.png';
-import paleGolem from '@site/static/img/paleGolem.png';
-import temporalAlk from '@site/static/img/temporalAlk.png';
-import marsoSeal from '@site/static/img/marsoSeal.png';
-import goregull from '@site/static/img/goregull.png';
-import rojo from '@site/static/img/rojo.png';
-
 <div className="standard">
-
 
 <AbrigarHeader
   title="Bestiary"
-  image="/img/dragonSketchTwo.png"
+  image="/img/world/dragonSketchTwo.png"
 />
 
 <div className="intro">
@@ -39,7 +26,7 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 </div>
 <div> 
     <figure className="lrgImg">
-    <img src={AlphaFly} />
+    ![Alpha Wyvernfly](/img/world/Alpha_Wyvernfly.png)
     </figure>
 </div>
 </div>
@@ -49,12 +36,12 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    <img src={BlinkStag} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div> 
     <figure className="nrmlImage">
-    <img src={SkiffFox} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div>
@@ -74,7 +61,7 @@ Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and
 <div className = "c_lrg_lft">
 <div> 
     <figure className="lrgImg">
-    <img src={TrashPanda} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div> 
@@ -93,7 +80,7 @@ These little lizards are the bottom of the food chain in the northern and southe
 
 <div>
     <figure className="iconImg">
-    <img src={frostGeckoTwo} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -113,7 +100,7 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 </div>
 <div> 
     <figure className="lrgImg">
-    <img src={phaseMoth} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 </div>
@@ -121,12 +108,12 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 <div className = "c2">
 <div>
     <figure className="lrgImg">
-    <img src={paleGolem} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div>
     <figure className="lrgImg">
-    <img src={temporalAlk} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div>
@@ -149,7 +136,7 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
 </div>
 <div> 
     <figure className="lrgImg">
-    <img src={marsoSeal} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 </div>
@@ -163,7 +150,7 @@ Goregulls are deceptively intelligent predators found throughout the streets and
 
 <div>
     <figure className="iconImg">
-    <img src={goregull} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 
@@ -177,12 +164,12 @@ These tiny beasts give a literal meaning to "bloodthirsty." They use their long,
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    <img src={rojo} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div> 
     <figure className="nrmlImage">
-    <img src={SkiffFox} />
+    ![Vespon](/img/Vespon.png)
     </figure>
 </div>
 <div>
