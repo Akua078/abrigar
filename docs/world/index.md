@@ -3,6 +3,8 @@ sidebar_position: 1
 title: World
 ---
 
+import Link from '@docusaurus/Link';
+
 <div className="standard">
 <u> 
 # The World of Abrigar
