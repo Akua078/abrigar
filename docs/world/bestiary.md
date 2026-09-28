@@ -100,7 +100,7 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 </div>
 <div> 
     <figure className="lrgImg">
-    ![Phase Moths](/img/world/PhaseMoth.png)
+    ![Phase Moths](/img/world/phaseMoth.png)
     </figure>
 </div>
 </div>
