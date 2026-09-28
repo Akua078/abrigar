@@ -67,7 +67,7 @@ Aetherfall
 
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Lee Festival](/img/world/leeCarving.png)
     </figure>
 </div>
 
@@ -86,13 +86,13 @@ Aetherfall
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Highsun Solstice](/img/world/summerDay.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Icebear Solstice](/img/world/winterDay.png)
     </figure>
 </div>
 
@@ -103,7 +103,7 @@ The Highsun Solstice is the summer solstice in Abrigar. On Highsun 28th, the lon
 </div>
 
 <div>
-## Icebear Low
+## Icebear Solstice
 
 In Icebear, the winter solstice of Abrigar hits. The Moon grows as close to Abrigar as it ever does, and many magical aspects of the world begin to react. Aurora Kelp glows as if the Ishkaran Sea were aflame, followers of Bisu are empowered, and phase moths flicker frequently as the border between the ethereal and the material weakens marginally. 
 </div>
@@ -114,7 +114,7 @@ In Icebear, the winter solstice of Abrigar hits. The Moon grows as close to Abri
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![def not Santa](/img/world/notSanta.png)
     </figure>
 </div>
 
@@ -136,7 +136,7 @@ The last day of the year was not decided arbitrarily, less of a holiday, more of
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![The Green Moon](/img/world/greenMoonSmall.png)
     </figure>
 </div>
 

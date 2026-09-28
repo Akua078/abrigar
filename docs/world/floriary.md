@@ -21,7 +21,7 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Jungle Rose](/img/world/jungleRoseThree.png)
     </figure>
 </div>
 
@@ -37,19 +37,19 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Ember Poppy](/img/world/EmberPoppy.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Glass Needle Fern](/img/world/GlassFern.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Golden Maple](/img/world/GoldenMaple.png)
     </figure>
 </div>
 
@@ -83,7 +83,7 @@ The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, f
 
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Aurora Kelp](/img/world/auroraKelp.png)
     </figure>
 </div>
 

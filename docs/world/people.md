@@ -21,7 +21,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div className = "c_lrg_lft">
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Human](/img/world/human.png)
     </figure>
 </div>
 
@@ -48,7 +48,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Snow Leopard Tabaxi](/img/world/snowTabaxi.png)
     </figure>
 </div>
 </div>
@@ -56,7 +56,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div className = "c_lrg_lft">
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Warforged](/img/world/warforged.png)
     </figure>
 </div>
 
@@ -83,7 +83,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Yaun-Ti](/img/world/YaunTi.png)
     </figure>
 </div>
 </div>

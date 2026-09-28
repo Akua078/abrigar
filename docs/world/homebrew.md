@@ -21,19 +21,19 @@ This page contains lots of homebrew stats and pictures, of items, artifacts, and
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![IDCaster Amulet](/img/world/IDCasterAmulet.jpg)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Spell Totem](/img/world/spellTotem.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Sage's Horn](/img/world/sageDagger.png)
     </figure>
 </div>
 
@@ -63,13 +63,13 @@ A broken piece of a wandering Monk's horn, snapped off in a battle with an elite
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Memory Crystal](/img/world/memoryCrystal.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Dimension Blade](/img/world/dBlade.png)
     </figure>
 </div>
 
@@ -85,7 +85,7 @@ This gem can seemingly remember the places its been. When wielded by a spellcast
 ## Dimension Blade
 <div className="tiny"> Wondrous Item, Legendary </div>
 
-This crystaline blade can be used as a very powerful ritual focus. If implemented correctly, it can be channeled to be anything from a means of planar travel to an incredible weapon. If implemented incorrectly, it can cause disasters that end up in history books for generations.
+This crystalline blade can be used as a very powerful ritual focus. If implemented correctly, it can be channeled to be anything from a means of planar travel to an incredible weapon. If implemented incorrectly, it can cause disasters that end up in history books for generations.
 </div>
 </div>
 
@@ -94,20 +94,20 @@ This crystaline blade can be used as a very powerful ritual focus. If implemente
 This armor is for an owlbear of an infernal army. A Tiefling Demon Lord is said to ride one in the massive civil war currently raging through the hells. Though such rumors are ridiculous, and no scholar of academic credit would ever buy into such nonsense.
 
 <figure className="lrgImage">
-![Vespon](/img/Vespon.png)
+![Hellfire Owlbear Armor](/img/world/owlbearArmor.png)
 </figure>
 
 <div className = "c2">
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Ember Keys](/img/world/emberKeys.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Frost Globe](/img/world/frostGlobe.png)
     </figure>
 </div>
 
@@ -131,19 +131,19 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Whispering Conch](/img/world/whisperingConch.png)
     </figure> 
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Conjuration Staff](/img/world/discordStaff.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Final Mistake](/img/world/greenSwordReference.png)
     </figure>
 </div>
 
@@ -170,7 +170,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Sealskin Cloak](/img/world/sealCloak.png)
     </figure> 
 </div>
 
@@ -184,7 +184,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Imbued Needle](/img/world/glassNeedle.png)
     </figure> 
     ### Imbued Glass Needle
     <div className="tiny"> Wondrous Item, Common </div>
@@ -219,19 +219,19 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 
 <div>
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Heart of Elana](/img/world/elana.png)
     </figure> 
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Green Moon Medley](/img/world/greenMoonPotion.png)
     </figure>
 </div>
 
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Twisted Compass](/img/world/twistedCompass.png)
     </figure>
 </div>
 

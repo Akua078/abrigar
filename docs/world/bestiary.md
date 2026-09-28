@@ -36,12 +36,12 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Blink Stag](/img/world/BlinkStag.png)
     </figure>
 </div>
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Skiff Fox](/img/world/SkiffFox.png)
     </figure>
 </div>
 <div>
@@ -61,7 +61,7 @@ Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and
 <div className = "c_lrg_lft">
 <div> 
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Trash Panda](/img/world/TrashPanda.png)
     </figure>
 </div>
 <div> 
@@ -80,7 +80,7 @@ These little lizards are the bottom of the food chain in the northern and southe
 
 <div>
     <figure className="iconImg">
-    ![Vespon](/img/Vespon.png)
+    ![Frost Gecko](/img/world/FrostGeckoTwo.png)
     </figure>
 </div>
 
@@ -100,7 +100,7 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 </div>
 <div> 
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Phase Moths](/img/world/PhaseMoth.png)
     </figure>
 </div>
 </div>
@@ -108,12 +108,12 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 <div className = "c2">
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Pale Collector](/img/world/PaleGolem.png)
     </figure>
 </div>
 <div>
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Temporal Alkilith](/img/world/temporalAlk.png)
     </figure>
 </div>
 <div>
@@ -136,7 +136,7 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
 </div>
 <div> 
     <figure className="lrgImg">
-    ![Vespon](/img/Vespon.png)
+    ![Marsonian Seals](/img/world/marsoSeal.png)
     </figure>
 </div>
 </div>
@@ -150,7 +150,7 @@ Goregulls are deceptively intelligent predators found throughout the streets and
 
 <div>
     <figure className="iconImg">
-    ![Vespon](/img/Vespon.png)
+    ![Goregulls](/img/world/goregull.png)
     </figure>
 </div>
 
@@ -164,7 +164,7 @@ These tiny beasts give a literal meaning to "bloodthirsty." They use their long,
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Rojos](/img/world/rojo.png)
     </figure>
 </div>
 <div> 
@@ -175,10 +175,12 @@ These tiny beasts give a literal meaning to "bloodthirsty." They use their long,
 <div>
 ## Rojos
 
-Rojos are elegant, strange fish that float and glide through the water like clouds in the sky. They glow a brilliant red, and travel in swarms of hundreds. They can be found in the Koralian seas most easily, though people report sightings near Marso and even further north into the ice. 
+Rojos are elegant, strange fish that float and glide through the water like clouds in the sky. They glow a brilliant red, and travel in swarms of hundreds. They can be found in the Koralian seas most easily, though people report sightings near Marso and even further north into the ice. They are thought to be native to the Devil's End, pushed out by the eruptions, now living scattered in the sea.
 </div>
 <div>
 ## Entry
+
+desc
 </div>
 </div>
 

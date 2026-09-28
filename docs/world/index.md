@@ -14,7 +14,7 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/map">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Map.png)
     </Link>
 </div>
 
@@ -22,49 +22,49 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/people">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/People.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/cuisine">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Cuisine.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/bestiary">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Bestiary.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/floriary">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Floriary.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/holidays_and_seasons">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/HolidaysAndSeasons.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/biomes">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Biomes.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/item_catalogue">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/ItemCatalogue.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/homebrew">
-    ![Vespon](/img/Vespon.png)
+    ![Map Button](/img/buttons/Homebrew.png)
     </Link>
 </div>
 
