@@ -10,7 +10,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 <AbrigarHeader
   title="Homebrew"
-  image="/img/world/wizardworkshop.png"
+  image="/img/world/wizardWorkshop.png"
 />
 
 <div className="intro">

@@ -10,7 +10,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 <AbrigarHeader
   title="Floriary"
-  image="/img/world/FloriaryHeader.png"
+  image="/img/world/floriaryHeader.png"
 />
 
 <div className="intro">
