@@ -37,19 +37,19 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="nrmlImage">
-    ![Ember Poppy](/img/world/EmberPoppy.png)
+    ![Ember Poppy](/img/world/emberPoppy.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Glass Needle Fern](/img/world/GlassFern.png)
+    ![Glass Needle Fern](/img/world/glassFern.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![Golden Maple](/img/world/GoldenMaple.png)
+    ![Golden Maple](/img/world/goldenMaple.png)
     </figure>
 </div>
 

@@ -36,12 +36,12 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    ![Blink Stag](/img/world/BlinkStag.png)
+    ![Blink Stag](/img/world/blinkStag.png)
     </figure>
 </div>
 <div> 
     <figure className="nrmlImage">
-    ![Skiff Fox](/img/world/SkiffFox.png)
+    ![Skiff Fox](/img/world/skiffFox.png)
     </figure>
 </div>
 <div>
@@ -61,7 +61,7 @@ Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and
 <div className = "c_lrg_lft">
 <div> 
     <figure className="lrgImg">
-    ![Trash Panda](/img/world/TrashPanda.png)
+    ![Trash Panda](/img/world/trashPanda.png)
     </figure>
 </div>
 <div> 
@@ -108,7 +108,7 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 <div className = "c2">
 <div>
     <figure className="lrgImg">
-    ![Pale Collector](/img/world/PaleGolem.png)
+    ![Pale Collector](/img/world/paleGolem.png)
     </figure>
 </div>
 <div>
