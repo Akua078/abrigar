@@ -83,7 +83,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 
 <div>
     <figure className="lrgImg">
-    ![Yaun-Ti](/img/world/YaunTi.png)
+    ![Yaun-Ti](/img/world/yaunTi.png)
     </figure>
 </div>
 </div>

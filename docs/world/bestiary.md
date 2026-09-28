@@ -80,7 +80,7 @@ These little lizards are the bottom of the food chain in the northern and southe
 
 <div>
     <figure className="iconImg">
-    ![Frost Gecko](/img/world/FrostGeckoTwo.png)
+    ![Frost Gecko](/img/world/frostGeckoTwo.png)
     </figure>
 </div>
 
