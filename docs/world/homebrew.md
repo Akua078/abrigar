@@ -69,7 +69,7 @@ A broken piece of a wandering Monk's horn, snapped off in a battle with an elite
 
 <div> 
     <figure className="nrmlImage">
-    ![Dimension Blade](/img/world/dBlade.png)
+    ![Dimension Blade](/img/world/dimensionBlade.png)
     </figure>
 </div>
 

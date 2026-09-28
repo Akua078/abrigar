@@ -10,7 +10,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 <AbrigarHeader
   title="Cuisine"
-  image="/img/world/cuisine_Header.png"
+  image="/img/world/cuisineHeader.png"
   imagePosition = "top"
 />
 
