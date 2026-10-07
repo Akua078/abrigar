@@ -102,7 +102,7 @@ Abrigar is a huge place, full of hundreds of unique foods, spices, tastes and de
   <div>
   ## Arutuan Pike
 
-  Arutuan Pike can be found all throughout the lakes of Arutu, and the rivers connecting them. They are water based predators, often hunting smaller fish and feeding on the weak that stumble into the shallows. They have become a staple of Arutuan cuisine, and are quite popular in the Warcradle Nations as well thanks to their abundance. 
+  Arutuan Pike can be found all throughout the lakes of Arutu, and the rivers connecting them. They are water-based predators, often hunting smaller fish and feeding on the weak that stumble into the shallows. They have become a staple of Arutuan cuisine, and are quite popular in the Warcradle Nations as well thanks to their abundance. 
   </div>
   <div>
   ## Ice Eels
@@ -112,7 +112,7 @@ Abrigar is a huge place, full of hundreds of unique foods, spices, tastes and de
   <div>
   ## Visian Venison
 
-  Visia, with its lush forests, houses many creatures. The favorite of local hunters is the blink stag, a deer like creature, which makes great stews and other meals. Its become a staple of the area, naturally, along with herbs and spices from the deltas. The difficulty of hunting the blink stags makes this venison a delicacy, highly sought after for its tender and tasty meat.
+  Visia, with its lush forests, houses many creatures. The favorite of local hunters is the blink stag, a deer-like creature, which makes great stews and other meals. It's become a staple of the area, naturally, along with herbs and spices from the deltas. The difficulty of hunting the blink stags makes this venison a delicacy, highly sought after for its tender and tasty meat.
   </div>
 </div>
 

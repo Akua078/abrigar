@@ -16,7 +16,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 <div className="intro">
 Abrigar is full of people. From all walks of life, and all species, all times, all ages and shapes and sizes, people fill this world with life and give it meaning. Here is a list of many of the unique species that can be found in Abrigar, some mundane and some mystical, though each shines in their own ways. 
-</div>
+</div>  
 
 <div className = "c_lrg_lft">
 <div>
@@ -63,7 +63,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div>
     ## Warforged
 
-    The Warforged, as they are called, are a species of automaton, resembling the mechanical lifeforms of Mechanus. They move not with muscles but with magic, fueled by the weave itself. As such, they have no natural limits on their lifespans, and do not need to eat, drink, breathe, or sleep. TThey make incredible warriors and explorers, and cannot easily be stopped from their goals. They can be considered a form of life far above every other, so much so that their status as 'alive' is hotly debated by artificers and philosophers alike. 
+    The Warforged, as they are called, are a species of automaton, resembling the mechanical lifeforms of Mechanus. They move not with muscles but with magic, fueled by the weave itself. As such, they have no natural limits on their lifespans, and do not need to eat, drink, breathe, or sleep. They make incredible warriors and explorers, and cannot easily be stopped from their goals. They can be considered a form of life far above every other, so much so that their status as 'alive' is hotly debated by artificers and philosophers alike. 
     
     Warforged are scarcely heard of in Abrigar. There is one, Iapyx Maluna of Fragua, a legendary artificer and arutuan capitan, who was created by Michael Maluna himself, but no other warforged is widely known of. It is entirely possible that more exist, merely in hiding, trapped, or stranded somewhere out of sight. Even so, Warforged are very recognizable, though most would likely mistake one for some sort of golem or perhaps a summon.
 
@@ -73,17 +73,17 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 <div className = "c_lrg_rgt">
 
 <div>
-    ## Yaun-Ti Pureblood
+    ## Yuan-Ti Pureblood
 
-    The Yaun-Ti are a species of snake people, part reptilian and part human. Most are animals, feral and monstrous, but some bloodlines grow more and more human, leaving these descendants in an odd spot, not quite monsters but certainly not human. Many battle these odds, living in discrimination and misunderstanding, in a world that cannot accept them, or not yet. They use their mystical charm to ensure their safety, their enchanting power to convince the people around them to look past their differences. Though this method backfires often, with many outraged villagers calling the whole species 'enchantress witches'.
+    The Yuan-Ti are a species of snake people, part reptilian and part human. Most are animals, feral and monstrous, but some bloodlines grow more and more human, leaving these descendants in an odd spot, not quite monsters but certainly not human. Many battle these odds, living in discrimination and misunderstanding, in a world that cannot accept them, or not yet. They use their mystical charm to ensure their safety, their enchanting power to convince the people around them to look past their differences. Though this method backfires often, with many outraged villagers calling the whole species 'enchantress witches'.
 
-    Despite these hardships, Yaun-Ti Purebloods can be found fairly commonly in parts of the world, the Null especially, thanks to safety in numbers and the closeness of their ancestral homeland, the visian jungle nearby. Here, they practice their rich and unique culture in secret and serenity, their taboos lifted from their colorful rituals and mystical ways.
+    Despite these hardships, Yuan-Ti Purebloods can be found fairly commonly in parts of the world, the Null especially, thanks to safety in numbers and the closeness of their ancestral homeland, the visian jungle nearby. Here, they practice their rich and unique culture in secret and serenity, their taboos lifted from their colorful rituals and mystical ways.
     
 </div>
 
 <div>
     <figure className="lrgImg">
-    ![Yaun-Ti](/img/world/yaunTi.png)
+    ![Yuan-Ti](/img/world/YuanTi.png)
     </figure>
 </div>
 </div>

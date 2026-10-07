@@ -14,7 +14,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 />
 
 <div className="intro">
-The World of Abrigar is a massive one, full of life and danger. Hills and trees, jungles and deserts coat every corner of this world, from the Southern Ice to volcanic islands, to the thick jungles and open fields, Abrigar has no shortage of plant life. Here, that diversity is listed and catalogued as it is understood by those who live in Abrigar, a collection of studies and pictures of the beautiful and dangerous flora of the realm. 
+The World of Abrigar is a massive one, full of life and danger. Hills and trees, jungles and deserts coat every corner of this world, from the Southern Ice to volcanic islands, to the thick jungles and open fields, Abrigar has no shortage of plant life. Here, that diversity is listed and catalogued as it is understood by those who live in Abrigar, a collection of studies and pictures of the beautiful and dangerous corners of the realm. 
 </div>
 
 <div className="c2">
@@ -30,7 +30,7 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 <div>
     ## The Forgotten Peaks
 
-    The Forgotten Peaks is a mountain range in the Center of Abrigar. No Province lays claim to over half of the mountains, as they are known to be nearly impassable. Because of this, many lawless factions hide away here. Traders and Travelers alike are faced with the difficult decision of taking longer to go around the mountains, or going straight through and facing the dangers. 
+    The Forgotten Peaks is a mountain range in the center of Abrigar. No province lays claim to over half of the mountains, as they are known to be nearly impassable. Because of this, many lawless factions hide away here. Traders and travelers alike are faced with the difficult decision of taking longer to go around the mountains, or going straight through and facing the dangers. 
 
 
     The Peaks are filled with treasures unclaimed, simply because people strong enough to claim them are so rare. There are dangerous ravines and chasms that are said to lead to other planes of existence, though none have lived a drop to prove the validity of those claims. Cave systems here are filled with precious metals like platinum and gold, and gems like diamonds and emeralds. Some say even the Gods mine adamantine from the bottom of some of these chasms, and some say neither the chasms nor the adamantine exist.
@@ -84,9 +84,9 @@ Not much is known to exist outside of Abrigar, the Ice acting as a sort of barri
 <div>
 ## The Devil's End 
 
-The Devil's End is an island chain found at the north western corner of the Shattered Sea. It is known for its volcanic activity and the volatility of its environment. Few are brave enough to venture here, let alone live here, and yet, the Devil's End is home to some of the best ship smiths in the world. The ship smiths of the Devil's End use the lava that surrounds them to heat and forge metal at their whim, and often make outlandish yet extremely powerful and useful upgrades for ships. The Devil's End  itself is only a small chain, but is made mostly of volcanic stone and obsidian shards scattered about the island, and is home to the hardy and the heat-resistant creatures of the world.
+The Devil's End is an island chain found at the northwestern corner of the Shattered Sea. It is known for its volcanic activity and the volatility of its environment. Few are brave enough to venture here, let alone live here, and yet, the Devil's End is home to some of the best ship smiths in the world. The ship smiths of the Devil's End use the lava that surrounds them to heat and forge metal at their whim, and often make outlandish yet extremely powerful and useful upgrades for ships. The Devil's End  itself is only a small chain, but is made mostly of volcanic stone and obsidian shards scattered about the island, and is home to the hardy and the heat-resistant creatures of the world.
 
-The pattern shown here is an ancient design made by the people who live in the Devil's End. Its original meaning is unknown, but it is thought that the people that lived here originally worshipped lava and heat, especially gods like Hephaestus and Hestia. Many followers of these two say their connection to their gods feels stronger near the lava. 
+The pattern shown here is an ancient design made by the people who live in the Devil's End. Its original meaning is unknown, but it is thought that the people that lived here originally worshiped lava and heat, especially gods like Hephaestus and Hestia. Many followers of these two say their connection to their gods feels stronger near the lava. 
 
 </div>
 

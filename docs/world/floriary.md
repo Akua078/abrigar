@@ -96,7 +96,7 @@ The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, f
 
     ## Mint Moss
 
-    Mint moss is native to the south west of the shattered sea, and grows thick around stones and caves. It smells remarkably like mint, hence the name, and tastes like a sweet candy. It's packed with sugar, and many parents have to tear their children away from the moss so that they don't eat it all. Its scent is extremely sweet, which drives both humans and animals to eat large quantities. Luckily, mint moss grows quickly: quickly enough to need to be cleared off of roads every few moths, lest a town be overrun with is. Mint moss supports ecosystems it enters by attracting herbivores, which spread the moss with their messy eating, and fertilize the soil. 
+    Mint moss is native to the southwest of the shattered sea, and grows thick around stones and caves. It smells remarkably like mint, hence the name, and tastes like a sweet candy. It's packed with sugar, and many parents have to tear their children away from the moss so that they don't eat it all. Its scent is extremely sweet, which drives both humans and animals to eat large quantities. Luckily, mint moss grows quickly: quickly enough to need to be cleared off of roads every few months, lest a town be overrun with it. Mint moss supports ecosystems it enters by attracting herbivores, which spread the moss with their messy eating, and fertilize the soil. 
 
 </div>
 <div> 
