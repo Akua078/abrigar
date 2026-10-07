@@ -86,7 +86,29 @@ The Coshpolian Golden Maple is a tree native to the eastern shores of Abrigar, f
     ![Aurora Kelp](/img/world/auroraKelp.png)
     </figure>
 </div>
+</div>
 
+<div className="c2">
+<div> 
+    <figure className="nrmlImage">
+    ![Mint Moss](/img/world/mintmoss.png)
+    </figure>
+
+    ## Mint Moss
+
+    Mint moss is native to the south west of the shattered sea, and grows thick around stones and caves. It smells remarkably like mint, hence the name, and tastes like a sweet candy. Its packed with sugar, and many parents have to tear their children away from the moss such that they don't eat it all. Mint moss supports ecosystems it enters by attracting herbivores, which spread the moss with their messy eating, and fertilize the soil. 
+
+</div>
+<div> 
+    <figure className="nrmlImage">
+    ![Moss Berries](/img/world/mossberries.png)
+    </figure>
+
+    ## Mossberries
+
+    The Mossberry bush is a hardy shrub that can be found growing just about anywhere in Abrigar. Its roots are stronger than some tree bark, and can grow tough enough to break stone. They grow in abundance in lush forests such as Gacte and the Woods, but can also be found in places as inhospitable as The Devil's End or even the Null Wastes. The berries that grow on these bushes are bitter, but can sustain those desperate enough to need them. When cooked properly, though, some find mossberries quite tasty.
+
+</div>
 </div>
 
 </div>

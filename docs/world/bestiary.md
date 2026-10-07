@@ -13,6 +13,8 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
   image="/img/world/dragonSketchTwo.png"
 />
 
+
+
 <div className="intro">
 The World of Abrigar is a massive one, full of life and danger. Monsters lurk around every corner, and many make a career out of cataloguing and understanding them. This is a collection of their efforts, and a menagerie of monsters from around the realm. From terrifying beasts to adorable pets, this is the wildlife of Abrigar.
 </div>
@@ -34,25 +36,29 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 
 
 <div className="c2">
-<div> 
-    <figure className="nrmlImage">
-    ![Blink Stag](/img/world/blinkStag.png)
-    </figure>
-</div>
-<div> 
-    <figure className="nrmlImage">
-    ![Skiff Fox](/img/world/skiffFox.png)
-    </figure>
+<div>
+    <div> 
+        <figure className="nrmlImage">
+        ![Skiff Fox](/img/world/skiffFox.png)
+        </figure>
+    </div>
+
+    ## Skiff Foxes
+
+    Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and fields to hunt rodents and ducks, skiff foxes hunt more elusive prey: magic items. Skiff foxes devour the magic of anything they can get their paws on, from trinkets to artifacts, and the magic sustains them. As such, to merchants and magicians alike, these foxes are worse than rodents: pests magical in nature. Some young mages, however, enjoy taming skiff foxes and even taking them as pets or familiars.
+
 </div>
 <div>
-## Blink Stag
+    <div> 
+        <figure className="nrmlImage">
+        ![Blink Stag](/img/world/blinkStag.png)
+        </figure>
+    </div>
 
-In thick forests and lush environments, movement is no small task. In brush-choked jungles and dense, dark forests, Blink Stags take full advantage. These large, deer-like creatures use their innate connection to the ethereal plane to slip past obstacles without slowing down. They can easily escape hunters, leaving predators confused and disoriented in their wake. A Blink Stag is often the true test of a master hunter. Some even worship these creatures as fey spirits or entities of chaos, while others simply revere them for the majesty of nature.
-</div>
-<div>
-## Skiff Foxes
+    ## Blink Stags
 
-Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and fields to hunt rodents and ducks, skiff foxes hunt more elusive prey: magic items. Skiff foxes devour the magic of anything they can get their paws on, from trinkets to artifacts, and the magic sustains them. As such, to merchants and magicians alike, these foxes are worse than rodents: pests magical in nature. Some young mages, however, enjoy taming skiff foxes and even taking them as pets or familiars.
+    In thick forests and lush environments, movement is no small task. In brush-choked jungles and dense, dark forests, Blink Stags take full advantage. These large, deer-like creatures use their innate connection to the ethereal plane to slip past obstacles without slowing down. They can easily escape hunters, leaving predators confused and disoriented in their wake. A Blink Stag is often the true test of a master hunter. Some even worship these creatures as fey spirits or entities of chaos, while others simply revere them for the majesty of nature.
+
 </div>
 </div>
 
@@ -69,6 +75,8 @@ Skiff foxes are pests to be sure. Where their mundane cousins lurk in bushes and
 These hulking creatures are the waste-disposal solution of many major cities in Abrigar. No one knows where they're native to, but they've been selectively bred and adapted to the needs of different regions. They'll eat just about anything they can fit into their massive mouths, which contain seventeen rows of teeth capable of smashing even metal into paste. Trash Pandas need very little sustenance or water and are often extremely lazy. If their food is within reach, they'll move less than twenty feet in a day, earning them a reputation for being sleepy. Don't let the cuddly exterior fool you, though. When hungry, they'll turn on their keepers without a second thought. To a hungry Trash Panda, there is no difference between rotting meat and living flesh.
 </div>
 </div>
+
+
 
 <div className = "c3">
 <div>
@@ -93,6 +101,8 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 </div>
 </div>
 
+
+
 <div className = "c_lrg_rgt">
 <div> 
     ## Phase Moths
@@ -104,6 +114,8 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
     </figure>
 </div>
 </div>
+
+
 
 <div className = "c2">
 <div>
@@ -129,6 +141,8 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
 </div>
 </div>
 
+
+
 <div className = "c_lrg_rgt">
 <div> 
     ## Marsonian Seals
@@ -140,6 +154,8 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
     </figure>
 </div>
 </div>
+
+
 
 <div className = "c3">
 <div>
@@ -161,27 +177,50 @@ These tiny beasts give a literal meaning to "bloodthirsty." They use their long,
 </div>
 </div>
 
+
+
 <div className="c2">
 <div> 
     <figure className="nrmlImage">
-    ![Rojos](/img/world/rojo.png)
+    ![Rojos](/img/world/rojo2.png)
     </figure>
+
+    ## Rojos
+
+    Rojos are elegant, strange fish that float and glide through the water like clouds in the sky. They glow a brilliant red, and travel in swarms of hundreds. They can be found in the Koralian seas most easily, though people report sightings near Marso and even further north into the ice. They are thought to be native to the Devil's End, pushed out by the eruptions, now living scattered in the sea.
+
 </div>
 <div> 
     <figure className="nrmlImage">
-    ![Vespon](/img/Vespon.png)
+    ![Zapflies](/img/world/zapfly.png)
+    </figure>
+
+    
+
+    ## Zapflies
+
+    Zapflies are tiny insects that resemble dragonflies, but adventurers that mistake them for their harmless cousins are soon corrected. Zapflies are ambush predators, hunting in swarms of anywhere from fifty to five hundred. As they beat their wings, they generate magical electricity. One zapfly on its own is enough to tickle. Some packs can kill even a strong creature, allowing the swarm to feast on its flesh as they please. Swarms often remain motionless in trees or in bushes, a few of them flying about as bait for an unsuspecting creature. When one of them is caught, the swarm descends, trading one of themselves for dinner. Hunters on Marso, the island to which these flies are native, describe their hair standing on end when a swarm is nearby. 
+
+</div>
+</div>
+
+
+
+<div className = "c_lrg_lft">
+
+<div> 
+    <figure className="lrgImg">
+    ![Ashwings in Lava](/img/world/ashwing.png)
     </figure>
 </div>
 <div>
-## Rojos
+    ## Ashwings
 
-Rojos are elegant, strange fish that float and glide through the water like clouds in the sky. They glow a brilliant red, and travel in swarms of hundreds. They can be found in the Koralian seas most easily, though people report sightings near Marso and even further north into the ice. They are thought to be native to the Devil's End, pushed out by the eruptions, now living scattered in the sea.
-</div>
-<div>
-## Entry
+    Ashwings are birds that live in the extreme heat of the Devil's End. They evolved feathers that are exceptionally resistant to heat, allowing them to survive temperatures that would be deadly to most other creatures. Because of this adaptation, Ashwings can rest on flowing lava as easily as a duck can rest on a pond, completely unbothered by the heat and ash. Ashwings are grey birds with orange eyes that glow like amber in the dark. They often use the intense heat of their bodies as a means of self-defense, splashing lava at predators or simply diving into the calderas of open volcanoes to escape danger. They are completely comfortable in the heat and will sometimes build their nests within partially cooling igneous rock as it floats across lakes of magma.
 
-desc
 </div>
 </div>
+
+
 
 </div>

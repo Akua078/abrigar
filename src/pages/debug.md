@@ -41,7 +41,7 @@ Look out! This page contains spoilers that are not beholden to the general rules
 <div className = "standard">
 **Bold**
 *Italic*
-***Bold Italic***
+***Bold&Italic***
 </div>
 
 <div className = "c2">
@@ -74,5 +74,11 @@ text
 
 <div className="tiny left_align"> Width Test LEFT </div>
 <div className="tiny right_align"> Width Test RIGHT </div>
+
+
+
+
+
+
 
 </div>
