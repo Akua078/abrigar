@@ -3,30 +3,6 @@ const sidebars = {
 
     {
       type: 'category',
-      label: 'Nations',
-      link: {
-        type: 'doc',
-        id: 'nations/index',
-      },
-      items: [
-        'nations/Minera',
-      ],
-    },
-
-    {
-      type: 'category',
-      label: 'Groups',
-      link: {
-        type: 'doc',
-        id: 'groups/index',
-      },
-      items: [
-        'groups/azure-cooperation',
-      ],
-    },
-
-    {
-      type: 'category',
       label: 'World',
       link: {
         type: 'doc',
@@ -42,6 +18,31 @@ const sidebars = {
         'world/biomes',
         'world/item_catalogue',
         'world/homebrew',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Nations',
+      link: {
+        type: 'doc',
+        id: 'nations/index',
+      },
+      items: [
+        'nations/minera',
+        'nations/fratera',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Groups',
+      link: {
+        type: 'doc',
+        id: 'groups/index',
+      },
+      items: [
+        'groups/azure-cooperation',
       ],
     },
 
