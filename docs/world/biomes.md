@@ -21,10 +21,10 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 
 <div>
     <figure className="nrmlImage">
-    ![def not Santa](/img/world/forgottenPeaksMap.png)
+    ![Forgotten Peaks Map](/img/world/forgottenPeaksMap.png)
     </figure>
     <figure className="nrmlImage">
-    ![def not Santa](/img/world/fraguanRangeMap.png)
+    ![Fraguan Range Map](/img/world/fraguanRangeMap.png)
     </figure>
 </div>
 <div>
@@ -54,16 +54,16 @@ These lands are made wet by the lakes running through them, as well as the river
 
 <div>
     <figure className="nrmlImage">
-    ![def not Santa](/img/world/eplemGrasslandsMap.png)
+    ![Eplemian Grasslands](/img/world/eplemGrasslandsMap.png)
     </figure>
     <figure className="nrmlImage">
-    ![def not Santa](/img/world/eplemFarm.png)
+    ![Eplemian Farmlands](/img/world/eplemFarm.png)
     </figure>
 </div>
 
 <div>
     <figure className="nrmlImage">
-    ![def not Santa](/img/world/iceArch.png)
+    ![Ragan Arch](/img/world/iceArch.png)
     </figure>
 </div>
 
@@ -75,11 +75,28 @@ These lands are made wet by the lakes running through them, as well as the river
 Not much is known to exist outside of Abrigar, the Ice acting as a sort of barrier to the world, and end, if you will. The east and west are both oceans, endless expanses of water, as far as anyone knows. There are many stories about travelers daring to venture into the frozen wastes, coming back with riches and magics, also of being ruined or never seen again. The world holds a mix of fascination and dread at the Ice, and the result is an unwillingness to find out what is true.
 </div>
 
-
 </div>
 
 
 
+<div className="c_lrg_lft">
+
+<div>
+## The Devil's End 
+
+The Devil's End is an island chain found at the north western corner of the Shattered Sea. It is known for its volcanic activity and the volatility of its environment. Few are brave enough to venture here, let alone live here, and yet, the Devil's End is home to some of the best ship smiths in the world. The ship smiths of the Devil's End use the lava that surrounds them to heat and forge metal at their whim, and often make outlandish yet extremely powerful and useful upgrades for ships. The Devil's End  itself is only a small chain, but is made mostly of volcanic stone and obsidian shards scattered about the island, and is home to the hardy and the heat-resistant creatures of the world.
+
+The pattern shown here is an ancient design made by the people who live in the Devil's End. Its original meaning is unknown, but it is thought that the people that lived here originally worshipped lava and heat, especially gods like Hephaestus and Hestia. Many followers of these two say their connection to their gods feels stronger near the lava. 
+
+</div>
+
+<div>
+    <figure className="nrmlImage">
+    ![Devil's End Art](/img/world/devilsEnd.png)
+    </figure>
+</div>
+
+</div>
 
 
 </div>
