@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 title: Abrigar
+description: An encyclopedia of a fantasy world filled with strange magic, dangerous seas, lost civilizations, and secrets waiting to be discovered.
 hide_table_of_contents: true
+image: /img/Abrigar Greeting Card.png
 ---
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
