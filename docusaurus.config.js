@@ -43,7 +43,7 @@ const config = {
   ],
 
   themeConfig: {
-    image: "static/img/Abrigar Greeting Card.png",
+    image: "./static/img/Abrigar Greeting Card.png",
 
     colorMode: {
       respectPrefersColorScheme: true,
