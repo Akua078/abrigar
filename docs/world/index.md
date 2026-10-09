@@ -14,7 +14,7 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/map">
-    ![Button](/img/buttons/Map.png)
+    ![Button](/img/buttons/The_Map.png)
     </Link>
 </div>
 
@@ -23,12 +23,6 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 <div>
     <Link to="/docs/world/people">
     ![Button](/img/buttons/People.png)
-    </Link>
-</div>
-
-<div>
-    <Link to="/docs/world/cuisine">
-    ![Button](/img/buttons/Cuisine.png)
     </Link>
 </div>
 
@@ -45,8 +39,14 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 </div>
 
 <div>
+    <Link to="/docs/world/cuisine">
+    ![Button](/img/buttons/Cuisine.png)
+    </Link>
+</div>
+
+<div>
     <Link to="/docs/world/holidays_and_seasons">
-    ![Button](/img/buttons/HolidaysAndSeasons.png)
+    ![Button](/img/buttons/Holidays_and_Seasons.png)
     </Link>
 </div>
 
@@ -58,7 +58,7 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/item_catalogue">
-    ![Button](/img/buttons/ItemCatalogue.png)
+    ![Button](/img/buttons/Item_Catalogue.png)
     </Link>
 </div>
 

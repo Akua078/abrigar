@@ -11,9 +11,9 @@ const sidebars = {
       items: [
         'world/map',
         'world/people',
-        'world/cuisine',
         'world/bestiary',
         'world/floriary',
+        'world/cuisine',
         'world/holidays_and_seasons',
         'world/biomes',
         'world/item_catalogue',
