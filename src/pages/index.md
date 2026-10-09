@@ -10,7 +10,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 <div className="standard">
 
 <AbrigarHeader
-  title=" "
+  title="Abrigar"
   image="/img/tempHeader.png"
 />
 

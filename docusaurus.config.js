@@ -12,10 +12,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://teastwood3317.github.io',
+  url: 'https://akua078.github.io',
   baseUrl: '/abrigar/',
 
-  organizationName: 'teastwood3317',
+  organizationName: 'Akua078',
   projectName: 'abrigar',
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
   ],
 
   themeConfig: {
-    image: "img/Abrigar Greeting Card.png",
+    image: "static/img/Abrigar Greeting Card.png",
 
     colorMode: {
       respectPrefersColorScheme: true,
