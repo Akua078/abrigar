@@ -119,22 +119,22 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 
 <div className = "c2">
 <div>
-    <figure className="lrgImg">
+
+<figure className="lrgImg">
     ![Pale Collector](/img/world/paleGolem.png)
-    </figure>
-</div>
-<div>
-    <figure className="lrgImg">
-    ![Temporal Alkilith](/img/world/temporalAlk.png)
-    </figure>
-</div>
-<div>
+</figure>
+
 ## Pale Collector
 
 These golems wander the far reaches of Abrigar. Their original purpose is unknown, but they seem to seek out the weak and slay them, powered by the souls of their victims. Powerful magic indeed, these foes are difficult to slay.  They are found primarily in Uxbrid and the Forgotten Peaks, with a few strays wandering. The gem in their eye can be sold for a great deal of coin, though actually obtaining one is considered by many to be a death sentence. 
 
 </div>
 <div>
+
+<figure className="lrgImg">
+    ![Temporal Alkilith](/img/world/temporalAlk.png)
+</figure>
+
 ## Temporal Alkilith
 
 Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths form gateways to other planes, these form gateways to other times. Alkiliths themselves are very rare, and so the existence of their temporal cousins is hotly debated. Some think the idea of time travel is absurd, some claim to have seen them somewhere stashed away in the ruins of Uxbrid. Either way, secrets hide in the past, and these mossy slimes, should they truly exist, could provide a gateway to answers. 
