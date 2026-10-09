@@ -75,11 +75,7 @@ const config = {
       ],
     },
 
-    footer: {
-      style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Thomas Eastwood. Abrigar and its original content are the property of Thomas Eastwood.`,
-    },
-
+  
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
