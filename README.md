@@ -1,43 +1,10 @@
-# Website
+# Welcome to Abrigar
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Installation
+This is an encyclopedia for a fantasy setting I have been creating over the last few years. It acts as an extension of the Forgotten Realms made by Wizards of the Coast, though it has a lot of key differences. Feel free to explore, and have some fun learning about the wacky and outlandish creatures of my world. 
 
-```bash
-npm install
-```
+For ease of access from the Github Repository, here is the link!
+https://akua078.github.io/abrigar/
 
-**Note**: feel free to use the package manager of your choice.
-
-## Local Development
-
-```bash
-npm run start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+And welcome to Abrigar!
