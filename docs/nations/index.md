@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Nations
+hide_title: true
 ---
 
 import Link from '@docusaurus/Link';

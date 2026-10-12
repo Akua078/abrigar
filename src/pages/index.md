@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Abrigar
 description: An encyclopedia of a fantasy world filled with strange magic, dangerous seas, lost civilizations, and secrets waiting to be discovered.
 hide_table_of_contents: true
+hide_title: true
 ---
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
@@ -10,7 +11,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 <div className="standard">
 
 <AbrigarHeader
-  title="Abrigar"
+  title=" "
   image="/img/tempHeader.png"
 />
 
