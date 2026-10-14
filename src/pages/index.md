@@ -30,8 +30,6 @@ Explore freely, and enjoy the show.
 
 It's important to remember that Abrigar is a world wholly unlike our own, filled with different races and ideas, magics and sciences, and that these things affect how culture develops. Below is a summary of information that is too general to be specifically mentioned, and information that indicates a significant difference between our world and Abrigar. Be aware that everything on this page, contrary to my earlier comment, is true and can be trusted to remain so. If something here contradicts later found information, ask your Dungeon Master if it is intentional to be sure if something is a mistake, an exception, or something more... 
 
-</div>
-
 <div className="c2">
 
 <div>
@@ -60,4 +58,14 @@ I have to have *some* secrets!
 
 </div>
 
-<div className="standard tiny"> Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj </div> 
+</div>
+
+<div className="tiny">
+
+  Abrigar is unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. It is not approved or endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast LLC. © Wizards of the Coast LLC.
+
+  Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj 
+ 
+</div> 
+
+
