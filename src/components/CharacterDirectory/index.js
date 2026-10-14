@@ -21,7 +21,6 @@ function CharacterCard({ character }) {
         <h2>{character.name}</h2>
         <p className={styles.role}>{character.role}</p>
         <p>{character.summary}</p>
-        <span className={styles.link}>View character →</span>
       </div>
     </a>
   );
@@ -45,7 +44,7 @@ export default function CharacterDirectory() {
       <input
         className={styles.search}
         type="search"
-        placeholder="Search characters by name, role, or description..."
+        placeholder="Search characters by name, occupation, or description..."
         value={search}
         onChange={(event) => setSearch(event.target.value)}
         aria-label="Search characters"
