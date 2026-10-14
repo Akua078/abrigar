@@ -48,9 +48,9 @@
 }
 
 .card:hover {
-  border-color: var(--ifm-color-primary);
+  border-color:#69458a;
   color: inherit;
-  transform: translateY(-2px);
+  transform: translateY(-15px);
 }
 
 .image {
