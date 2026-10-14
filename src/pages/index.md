@@ -7,6 +7,7 @@ hide_title: true
 ---
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
+import Link from '@docusaurus/Link';
 
 <div className="standard">
 
@@ -58,13 +59,35 @@ I have to have *some* secrets!
 
 </div>
 
+## Abrigar at the table
+
+This website mainly serves as an encyclopedia, and those who access it most are the players! But, for anyone interested, I'm linking some of the particularly important pages here. They aren't found anywhere else on the website, and are the most important pages, outlining house rules, above table information, and things of that nature. Enjoy!
+
+<div className="c2">
+<div>
+    <Link to="/docs/other/table_rules">
+    ![Button](/img/buttons/tableRules.png)
+    </Link>
+</div>
+
+<div>
+    <Link to="/docs/world/the_pale_weave">
+    ![Button](/img/buttons/thePaleWeave.png)
+    </Link>
+</div>
+</div>
+
+### Useful links for DMs
+
+
+
 </div>
 
 <div className="tiny">
 
-  Abrigar is unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. It is not approved or endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast LLC. © Wizards of the Coast LLC.
-
   Lxvn, pnc uxbc rw rworwrch frcq vn. - Jtdj 
+
+  Abrigar is unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. It is not approved or endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast LLC. © Wizards of the Coast LLC.
  
 </div> 
 

@@ -72,6 +72,16 @@ const config = {
           to: '/docs/groups',
           position: 'left',
         },
+        {
+          label: 'Adventures',
+          to: '/docs/adventures',
+          position: 'left',
+        },
+        {
+          label: 'Characters',
+          to: '/docs/characters',
+          position: 'left',
+        },
       ],
     },
 
