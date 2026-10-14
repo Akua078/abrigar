@@ -46,6 +46,30 @@ const sidebars = {
       ],
     },
 
+    {
+      type: 'category',
+      label: 'Characters',
+      link: {
+        type: 'doc',
+        id: 'characters/index',
+      },
+      items: [
+        'characters/iapyxMaluna',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Adventures',
+      link: {
+        type: 'doc',
+        id: 'adventures/index',
+      },
+      items: [
+        'adventures/eternitiesEdge',
+      ],
+    },
+
   ],
 };
 
