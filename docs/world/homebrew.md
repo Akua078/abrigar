@@ -175,7 +175,7 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 </div>
 
 <div>
-    ### Matsonian Sealskin Cloak
+    ### Marsonian Sealskin Cloak
     <div className="tiny"> Wondrous Item, Common </div>
 
     This cloak prevents the wearer from getting soaked, even in the harshest storms. It is commonly found on Kulcinian Sailors, often decorated with the teeth of beasts for clamps or other trophies. A well-made Marsonian seal cloak can last for many years, and is considered by many locals to be an essential piece of clothing for life on Marso.
@@ -199,15 +199,18 @@ A globe used to activate the arch of the zenith, a gateway to Yulheim. The blizz
 </div>
 
 <div> 
+
     ### Liar Liar
     <div className="tiny"> Evocation Cantrip </div>
 
     This trick can be learned by many classes, including all Bards. A creature that failed to lie to the caster is engulfed in flame as retribution. Sucks to suck.
 
+
     ### Echo Step
     <div className="tiny"> 3rd Level Conjuration Spell </div>
 
     The caster creates a spectral copy of themselves, existing in two places at once. A strong enough mage can switch between these two places as they see fit. 
+
 </div>
 
 <div> 

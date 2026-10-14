@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/Abrigar Logo.png',
 
   future: {
-    v4: true,
+    v4: false,
   },
 
   url: 'https://akua078.github.io',

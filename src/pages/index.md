@@ -71,7 +71,7 @@ This website mainly serves as an encyclopedia, and those who access it most are 
 </div>
 
 <div>
-    <Link to="/docs/world/the_pale_weave">
+    <Link to="/docs/other/the_pale_weave">
     ![Button](/img/buttons/thePaleWeave.png)
     </Link>
 </div>

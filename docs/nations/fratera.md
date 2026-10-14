@@ -73,11 +73,10 @@ Fratera is known as a sister nation to Minera, the two engaging in much trade. M
 
   Stormwreck Isle is a small island off the southern coast of Fratera. The Island is known for conflict between the chromatic and metallic dragons, though it isn’t known by many outside of this conflict. Many dragons and dragonborn flock to the island because of its history, and because of legend. It is said that a great red dragon was sealed below the island long ago, and so chromatic dragons are drawn to the area. In response, metallic dragons followed suit to disrupt that which the chromatic dragons loved, as their creators would have approved of. Metallic and Chromatic dragons have long been at odds, so this behavior is to be expected.
 
+  There are reports of Harpies and Myconids on the island, though neither have been confirmed to the public. There is a small observatory on the north side of the island, long abandoned. The project lost funding years ago, and its inhabitants were left to an unknown fate, though it is suspected and can be expected that they were killed without the financial protection of their unknown benefactor.
 
-There are reports of Harpies and Myconids on the island, though neither have been confirmed to the public. There is a small observatory on the north side of the island, long abandoned. The project lost funding years ago, and its inhabitants were left to an unknown fate, though it is suspected and can be expected that they were killed without the financial protection of their unknown benefactor.
+  Fratera lays claim to the island, but few nations would place importance on its defense. There is little material value on the island, though a small settlement called Dragon's Rest is present on its northern shore. No more than a dozen humanoids are confirmed to live on the island, including the inhabitants of Dragon's Rest.
 
-
-Fratera lays claim to the island, but few nations would place importance on its defense. There is little material value on the island, though a small settlement called Dragon's Rest is present on its northern shore. No more than a dozen humanoids are confirmed to live on the island, including the inhabitants of Dragon's Rest.
   </div><div>
   ![Map of Stormwreck Isle](/img/nations/stormwreckMapWOTC.png)
   <div className="tiny">This map provided by WOTC Module "Dragons of Stormwreck Isle". Ignore provided mainland as non-cannon to Abrigar, as well as the scale of the island. </div>
