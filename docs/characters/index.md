@@ -11,7 +11,7 @@ import CharacterDirectory from '@site/src/components/CharacterDirectory';
 # The Characters of Abrigar
 </u>
 
-Abrigar has people in it
+Abrigar is full of faces, friendly, fantastic, or otherwise. This is a collection of the most interesting, significant, or otherwise noteworthy individuals in Abrigar.
 
 <CharacterDirectory />
 

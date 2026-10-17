@@ -60,21 +60,11 @@ const sidebars = {
 
     {
       type: 'category',
-      label: 'Characters',
-      link: {
-        type: 'doc',
-        id: 'characters/index',
-      },
-      items: [
-      ],
-    },
-
-    {
-      type: 'category',
       label: 'Other',
       items: [
         'other/table_rules',
         'other/the_pale_weave',
+        'characters/index'
       ],
     },
 

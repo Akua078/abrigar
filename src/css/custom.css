@@ -353,4 +353,16 @@ figure img {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+  .c4 {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .c_lrg_lft {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .c_lrg_rgt {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
 }
