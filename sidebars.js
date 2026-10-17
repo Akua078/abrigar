@@ -55,6 +55,7 @@ const sidebars = {
       },
       items: [
         'adventures/eternities_edge',
+        'adventures/the_hungry_ones',
       ],
     },
 

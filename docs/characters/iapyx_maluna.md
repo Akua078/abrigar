@@ -14,11 +14,11 @@ displayed_sidebar: abrigarSidebar
     <figure className="nrmlImage">
         ![Iapyx](/img/characters/iapyx1.png)
     </figure> 
-    Arutuan Capitan
+    Occupation: Arutuan Capitan
 
-    Warforged
+    Species: Warforged
     
-    ~450 years old
+    Age: ~450 years old
     
     [First appeared in 'Swords of Abrigar']
 </div>

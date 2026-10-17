@@ -13,6 +13,14 @@ const characters = [
     image: "/img/characters/cards/alex.png",
     path: "/docs/characters/alex_baytem",
   },
+  {
+    name: "Sekhem",
+    role: "Adventurer",
+    summary: "Acolyte of the Sand",
+    image: "/img/characters/cards/sekhamCard.png",
+    path: "/docs/characters/sekham",
+  },
+  
 ];
 
 export default characters;
