@@ -23,7 +23,7 @@ The people of Minera are wide and varied, with goods and races from across Abrig
 
 <div className="c2">
   <div>
-      ![Minera Emblem](/img/nations/minera.png)
+      ![Minera Emblem](/img/nations/emblems/minera.png)
   </div>
   <div>
   ## Emblem

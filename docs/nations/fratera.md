@@ -21,7 +21,7 @@ Fratera is a magical nation full of sorcery and magics both modern and ancient. 
 
 <div className="c2">
   <div>
-      ![Fratera Emblem](/img/nations/fratera.png)
+      ![Fratera Emblem](/img/nations/emblems/fratera.png)
   </div>
   <div>
   ## Emblem

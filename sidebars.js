@@ -31,6 +31,7 @@ const sidebars = {
       items: [
         'nations/minera',
         'nations/fratera',
+        'nations/arutu',
       ],
     },
 
