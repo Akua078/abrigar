@@ -77,9 +77,13 @@ This website mainly serves as an encyclopedia, and those who access it most are 
 </div>
 </div>
 
-### Useful links for DMs
+### Useful links
 
+https://tabletopaudio.com/
 
+https://app.dungeonscrawl.com/
+
+https://www.heroforge.com/cart/login
 
 </div>
 

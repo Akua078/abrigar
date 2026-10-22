@@ -105,4 +105,20 @@ The World of Abrigar is a massive one, full of life and danger. Hills and trees,
 </div>
 </div>
 
+<div className = "c_lrg_lft">
+
+<div>
+    <figure className="lrgImg">
+    ![Jungle Rose](/img/world/frostLily.png)
+    </figure>
+</div>
+
+<div>
+    ## Frost Lilies
+
+    Native to the snowy plains of Balbia, frost lilies hold religious significance in their beauty. Frost lilies are resilient flowers that can grow even in snowy wastes, and have even been spotted growing in ice. They draw nutrients from the weave itself, and are faintly magical, smelling of vanilla to an ordinary nose but much more to the attuned. Followers of Bisu are known to use these flowers as a symbol of the cold goddess, to bury their dead with them, and decorate with them at weddings. 
+</div>
+
+</div>
+
 </div>

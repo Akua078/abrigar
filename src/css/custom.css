@@ -1,6 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Underdog&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Abrigar Color Palette */
 
 :root {

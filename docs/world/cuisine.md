@@ -116,6 +116,22 @@ Abrigar is a huge place, full of hundreds of unique foods, spices, tastes and de
   </div>
 </div>
 
+<div className="c_lrg_lft">
+<div>
+    <figure>
+    ![Ruby Cherry](/img/world/rubyCherry.png)
+    </figure>
+</div>
+
+<div>
+    ## Ruby Cherry
+
+    The Ruby Cherry, also known as the Ravenous Cherry, is a magical fruit that grows only on one tree in the world. Its origin is unknown, but it was discovered in a large stone labyrinth defended by ghouls, by an adventurer known as John Smith. Smith made the mistake of eating a cherry, and discovered that they enchant those who consume them, turning them incredibly hungry, until their starvation consumes them. Those who eat one of these cherries have only minutes of madness left to look forward to. 
+
+    We really can't ever have enough time, can we? 
+</div>
+</div>
+
 
 
 

@@ -3,6 +3,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import characters from './characters';
 import styles from './styles.module.css';
 
+import Link from '@docusaurus/Link';
+
 function CharacterCard({ character }) {
   const imageUrl = useBaseUrl(character.image);
   const characterUrl = useBaseUrl(
@@ -10,7 +12,7 @@ function CharacterCard({ character }) {
   );
 
   return (
-    <a className={styles.card} href={characterUrl}>
+    <Link className={styles.card} to={characterUrl}>
       <img
         className={styles.image}
         src={imageUrl}
@@ -22,7 +24,7 @@ function CharacterCard({ character }) {
         <p className={styles.role}>{character.role}</p>
         <p>{character.summary}</p>
       </div>
-    </a>
+    </Link>
   );
 }
 
