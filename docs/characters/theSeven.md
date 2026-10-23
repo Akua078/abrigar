@@ -15,10 +15,12 @@ The Seven was a legendary adventuring party that wandered Abrigar long ago, arou
 <div className="c3">
 
 <div>
-<figure className="nrmlImage">
+## Michael Maluna
+
+<figure>
         ![Micheal Maluna](/img/characters/michaelMaluna.png)
 </figure> 
-## Michael Maluna
+
 <div className="tiny"> Human Artificer </div>
 Michael Maluna formed The Seven, along with his brother Elijah. He was known as a legendary artificer from the city of Fragua, Minera. He forged many great works, his greatest being his own  sentient armor, named Iapyx.
 
@@ -26,10 +28,12 @@ He was known for having a general disregard for the safety of others and a lack 
 </div>
 
 <div>
-<figure className="nrmlImage">
+## Elijah Maluna
+
+<figure>
         ![Elijah Maluna](/img/characters/elyMaluna.png)
 </figure> 
-## Elijah Maluna
+
 <div className="tiny"> Human Sorcerer / Wizard </div>
 Elijah Maluna formed The Seven, along with his brother Michael. He was known as a legendary mage and wizard from the city of Stellae, Fratera.  He outshone many great wizards, and spent his time diving deep into hundreds of topics, learning so quickly as to infuriate wizards who spent their entire lives studying a subject only to be overcome in a matter of weeks.
 
@@ -37,10 +41,12 @@ Elijah acted naively, but with heart, acting as the emotional center of the grou
 </div>
 
 <div>
-<figure className="nrmlImage">
+## Marlamin Arulo
+
+<figure>
         ![Marlamin Arulo](/img/characters/marlaminArulo.png)
 </figure> 
-## Marlamin Arulo
+
 <div className="tiny"> Human Artificer </div>
 Marlamin Arulo was the first to join The Seven, seeking glory and reputation for himself. He was known as a fantastic wizard, second only to Elijah Maluna himself, and also from Stellae, Fratera. He studied hard to learn many fields of arcana, proficient in a great many spells, but specializing in conjuration, specifically teleportation.
 

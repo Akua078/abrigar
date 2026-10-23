@@ -41,7 +41,7 @@ const characters = [
     role: "Holy Warrior / Adventurer",
     summary: "Legendary Knight",
     image: "/img/characters/cards/sirChrisP.png",
-    path: "/docs/characters/theSeven#sir-chris-p.png",
+    path: "/docs/characters/theSeven#sir-chris-p",
   },
   {
     name: "Tenebris Solum",
@@ -55,7 +55,7 @@ const characters = [
     role: "Divine Warrior / Adventurer",
     summary: "Legendary Archer",
     image: "/img/characters/cards/calidum.png",
-    path: "/docs/characters/theSeven#calidum.png",
+    path: "/docs/characters/theSeven#calidum-nyari",
   },
   {
     name: "Abba Everwinter",
