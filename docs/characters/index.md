@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Characters
+title: Character Directory
 ---
 
 import Link from '@docusaurus/Link';

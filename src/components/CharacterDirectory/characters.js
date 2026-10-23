@@ -13,7 +13,7 @@ const characters = [
     role: "Adventurer",
     summary: "Legendary Warrior",
     image: "/img/characters/cards/alex.png",
-    path: "/docs/characters/alex_baytem",
+    path: "/docs/characters/theSeven",
   },
   {
     name: "Sekhem",

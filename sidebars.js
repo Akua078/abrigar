@@ -67,6 +67,16 @@ const sidebars = {
 
     {
       type: 'category',
+      label: 'Characters',
+      items: [
+        'characters/index',
+        'characters/theEverwinters',
+        'characters/theSeven',
+      ],
+    },
+
+    {
+      type: 'category',
       label: 'Adventures',
       link: {
         type: 'doc',
@@ -84,7 +94,6 @@ const sidebars = {
       items: [
         'other/table_rules',
         'other/the_pale_weave',
-        'characters/index'
       ],
     },
 

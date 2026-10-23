@@ -50,7 +50,7 @@
 .card:hover {
   border-color:#69458a;
   color: inherit;
-  transform: translateY(-15px);
+  transform: translateY(-10px);
 }
 
 .image {
