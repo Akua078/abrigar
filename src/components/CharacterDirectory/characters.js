@@ -92,6 +92,13 @@ const characters = [
     image: "/img/characters/cards/sekhamCard.png",
     path: "/docs/characters/sekham",
   },
+  {
+    name: "Catastrophe Maddock",
+    role: "Bounty Hunter",
+    summary: "Daughter of The Maddock Name",
+    image: "/img/characters/cards/cassieMaddockCard.png",
+    path: "/docs/characters/theMaddocks#catastrophe-maddock",
+  },
   
 ];
 
