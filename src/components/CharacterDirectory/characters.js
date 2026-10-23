@@ -9,6 +9,27 @@ const characters = [
     path: "/docs/characters/iapyx_maluna",
   },
   {
+    name: "Micheal Maluna",
+    role: "Adventurer",
+    summary: "Legendary Warrior",
+    image: "/img/characters/cards/michaelMaluna.png",
+    path: "/docs/characters/theSeven#michael-maluna",
+  },
+  {
+    name: "Elijah Maluna",
+    role: "Adventurer",
+    summary: "Legendary Warrior",
+    image: "/img/characters/cards/elyMaluna.png",
+    path: "/docs/characters/theSeven#elijah-maluna",
+  },
+  {
+    name: "Marlamin Arulo",
+    role: "Grand Wizard / Adventurer",
+    summary: "Legendary Warrior",
+    image: "/img/characters/cards/marlaminArulo.png",
+    path: "/docs/characters/theSeven#marlamin-arulo",
+  },
+  {
     name: "Alex Baytem",
     role: "Adventurer",
     summary: "Legendary Warrior",
@@ -16,11 +37,25 @@ const characters = [
     path: "/docs/characters/theSeven",
   },
   {
-    name: "Sekhem",
-    role: "Adventurer",
-    summary: "Acolyte of the Sand",
-    image: "/img/characters/cards/sekhamCard.png",
-    path: "/docs/characters/sekham",
+    name: "Sir Chris P.",
+    role: "Holy Warrior / Adventurer",
+    summary: "Legendary Knight",
+    image: "/img/characters/cards/sirChrisP.png",
+    path: "/docs/characters/theSeven#sir-chris-p.png",
+  },
+  {
+    name: "Tenebris Solum",
+    role: "Divine Warrior / Adventurer",
+    summary: "Legendary Archer",
+    image: "/img/characters/cards/tenebris.png",
+    path: "/docs/characters/theSeven#tenebris-solum",
+  },
+  {
+    name: "Calidum Nyari",
+    role: "Divine Warrior / Adventurer",
+    summary: "Legendary Archer",
+    image: "/img/characters/cards/calidum.png",
+    path: "/docs/characters/theSeven#calidum.png",
   },
   {
     name: "Abba Everwinter",
@@ -49,6 +84,13 @@ const characters = [
     summary: "Son of the Everwinter Name",
     image: "/img/characters/cards/qidiCard.png",
     path: "/docs/characters/theEverwinters#qidi-everwinter",
+  },
+  {
+    name: "Sekhem",
+    role: "Adventurer",
+    summary: "Acolyte of the Sand",
+    image: "/img/characters/cards/sekhamCard.png",
+    path: "/docs/characters/sekham",
   },
   
 ];
