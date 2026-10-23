@@ -63,7 +63,7 @@ Aetherfall
 
 </div>
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 
 <div>
     <figure className="lrgImg">
@@ -110,7 +110,7 @@ In Icebear, the winter solstice of Abrigar hits. The Moon grows as close to Abri
 
 </div>
 
-<div className="c_lrg_rgt">
+<div className="c_right">
 
 <div>
     <figure className="nrmlImage">
@@ -126,7 +126,7 @@ Winter's Giving is the poster child of holidays in Abrigar. Spirits of the feywi
 
 </div>
 
-<div className="c_lrg_lft">
+<div className="c_left">
 
 <div>
 ## Green Moon

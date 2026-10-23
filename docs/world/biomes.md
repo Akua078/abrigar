@@ -79,7 +79,7 @@ Not much is known to exist outside of Abrigar, the Ice acting as a sort of barri
 
 
 
-<div className="c_lrg_lft">
+<div className="c_left">
 
 <div>
 ## The Devil's End 

@@ -70,8 +70,9 @@ const sidebars = {
       label: 'Characters',
       items: [
         'characters/index',
-        'characters/theEverwinters',
         'characters/theSeven',
+        'characters/theEverwinters',
+        'characters/theMaddocks',
       ],
     },
 

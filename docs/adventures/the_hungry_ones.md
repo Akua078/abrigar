@@ -5,7 +5,7 @@ hide_title: false
 ---
 <div className = "standard">
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div>
     <figure className="lrgImg">
     ![The Living Maw](/img/adventures/theLivingMaw.png)
@@ -18,7 +18,7 @@ hide_title: false
 </div>
 </div>
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 <div>
     ## Red - The Cursed
 
@@ -31,7 +31,7 @@ hide_title: false
 </div>
 </div>
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div>
     <figure className="lrgImg">
     ![Blue](/img/adventures/hungry-Blue.png)
@@ -44,7 +44,7 @@ hide_title: false
 </div>
 </div>
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 <div>
     ## Pink - The Tricky
 
@@ -57,7 +57,7 @@ hide_title: false
 </div>
 </div>
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div>
     <figure className="lrgImg">
     ![Orange](/img/adventures/hungry-Orange.png)

@@ -9,7 +9,7 @@ displayed_sidebar: abrigarSidebar
 
 # Iapyx Maluna
 
-<div className="c_lrg_rgt">
+<div className="c_right">
 <div>
     <figure className="nrmlImage">
         ![Iapyx](/img/characters/iapyx1.png)

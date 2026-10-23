@@ -18,7 +18,7 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 Abrigar is full of people. From all walks of life, and all species, all times, all ages and shapes and sizes, people fill this world with life and give it meaning. Here is a list of many of the unique species that can be found in Abrigar, some mundane and some mystical, though each shines in their own ways. 
 </div>  
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div>
     <figure className="lrgImg">
     ![Human](/img/world/human.png)
@@ -35,7 +35,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 </div>
 </div>
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 
 <div>
     ## Snow Leopard Tabaxis
@@ -53,7 +53,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 </div>
 </div>
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div>
     <figure className="lrgImg">
     ![Warforged](/img/world/warforged.png)
@@ -70,7 +70,7 @@ Abrigar is full of people. From all walks of life, and all species, all times, a
 </div>
 </div>
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 
 <div>
     ## Yuan-Ti Pureblood

@@ -9,7 +9,7 @@ displayed_sidebar: abrigarSidebar
 
 # The Everwinter Family
 
-<div className="c_lrg_rgt">
+<div className="c_right">
 <div>
     <figure className="nrmlImage">
         ![The Everwinters](/img/characters/theEverwinters.png)
@@ -30,7 +30,7 @@ displayed_sidebar: abrigarSidebar
 </div>
 </div>
 
-<div className="c_lrg_lft">
+<div className="c_left">
 <div>
 ## Abba Everwinter
 

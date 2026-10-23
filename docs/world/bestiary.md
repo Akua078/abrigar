@@ -21,7 +21,7 @@ The World of Abrigar is a massive one, full of life and danger. Monsters lurk ar
 
 
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 <div> 
 ## Alpha Wyvernfly
 The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The Northern Ice. Some say that these things can be tamed, even ridden as an airborne mount, though those are surely just old wives' tales. This variant of a Wyvernfly is stronger, having a fully functioning stinger to augment its claws and wings. It's incredibly difficult to strike while airborne, and can track its prey for miles. It is said to hold a grudge, be stubborn and difficult to slay, and be extremely powerful. An Alpha Wyvernfly has been known to pursue wounded prey for days, abandoning easier meals until the original target is dead. The toxin in its stinger is outrageously dangerous.
@@ -64,7 +64,7 @@ The Alpha Wyvernfly is a massive beast, lurking in the Forgotten Peaks and The N
 
 
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 <div> 
     <figure className="lrgImg">
     ![Trash Panda](/img/world/trashPanda.png)
@@ -103,7 +103,7 @@ They have yellowish orange fur, thin but shaggy, growing several inches long. Th
 
 
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 <div> 
     ## Phase Moths
     Phase Moths are small, pale blue insects that flutter around areas of magic and mystery. They are drawn to darkness, both moral and literal, and tend to gather in swarms of a few hundred. What makes them unique is their lack of attachment to the Material Plane. As they flutter about, they fade in and out of reality, sporadically phasing into other Inner Planes, hence their name. Remarkably, a swarm tends to occupy the same relative location on each plane it passes through. Because of this, mages powerful enough to travel between planes often seek out Phase Moths as guides. A swarm encountered on one plane may mark a place of significance on another, allowing experienced planar travelers to use the moths as living landmarks across the planes.
@@ -143,7 +143,7 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
 
 
 
-<div className = "c_lrg_rgt">
+<div className = "c_right">
 <div> 
     ## Marsonian Seals
     Marso is home to many animals drawn to its cold, wet conditions. One such species is the Marsonian Seal, named for the island after migrating south from the Ice. Marsonian Seals have thick, slimy fur that keeps them warm in the cold waters. The constant rain of Marso helps clean and maintain their coats, making the island's wet climate particularly well suited to them. They hunt in enormous packs, using the constant sound of rainfall to mask their movements. Their prey often cannot distinguish the sound of a hunting pack from the surrounding water until the seals are already upon them. Marsonians have long hunted these seals for their fur, which is prized for making exceptionally waterproof cloaks. Local hunters traditionally take care to hunt only older seals, allowing younger animals to mature and reproduce. The practice has helped keep the enormous seal populations stable for generations. 
@@ -206,7 +206,7 @@ These tiny beasts give a literal meaning to "bloodthirsty." They use their long,
 
 
 
-<div className = "c_lrg_lft">
+<div className = "c_left">
 
 <div> 
     <figure className="lrgImg">

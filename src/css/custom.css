@@ -172,7 +172,7 @@ html {
   text-align: center;
 }
 
-.c_lrg_rgt {
+.c_right {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 3rem;
@@ -181,7 +181,7 @@ html {
   max-width: 1500px;
 }
 
-.c_lrg_lft {
+.c_left {
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: 3rem;
@@ -361,11 +361,11 @@ figure img {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  .c_lrg_lft {
+  .c_left {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  .c_lrg_rgt {
+  .c_right {
     grid-template-columns: 1fr;
     gap: 1rem;
   }

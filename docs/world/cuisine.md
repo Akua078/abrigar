@@ -116,7 +116,7 @@ Abrigar is a huge place, full of hundreds of unique foods, spices, tastes and de
   </div>
 </div>
 
-<div className="c_lrg_lft">
+<div className="c_left">
 <div>
     <figure>
     ![Ruby Cherry](/img/world/rubyCherry.png)
