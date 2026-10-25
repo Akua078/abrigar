@@ -25,7 +25,7 @@ The Maddocks believe in justice and honor above all, including law. Most governm
 
 <div>
 <figure>
- ![Catastrophe Maddock](/img/characters/catastropheFull.png)
+ ![Catastrophe Maddock](/img/characters/catastropheTwo.png)
 </figure> 
 </div>
 

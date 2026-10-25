@@ -95,6 +95,7 @@ const sidebars = {
       items: [
         'other/table_rules',
         'other/the_pale_weave',
+        'other/extra_goodies',
       ],
     },
 

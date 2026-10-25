@@ -46,7 +46,7 @@ Balbia rules the northern sea, as well as the Balbian Island Chain. They are the
   Balbia is one of only two democracies in Abrigar, the other being Visia. They elect a Chancellor to lead them, whose term lasts five years before another election is held. A Chancellor that has previously run is not allowed to run again except in special circumstances, and it is generally considered dishonorable to run twice. 
   </div>
   <div>
-    ![CAPTION](/img/nations/frateraKing.png)
+    ![The Chancellor](/img/nations/balbianChancellor.png)
   </div>
 </div>
 
@@ -59,7 +59,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 </div>
 
 ## The Balbian Island Chain
-![The Arutuan Lakes](/img/nations/arutuLakesMap.png)
+![The Arutuan Lakes](/img/nations/balbianIslandsMap.png)
 
 <div className="c3">
 <div>
@@ -80,12 +80,12 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div>
   ### Nammay
 
-  Nammay is the third biggest island in the chain, and a twin of Inkittu. It is usally overlooked in the shadow in Inkittu. 
+  Nammay is the third biggest island in the chain, and a twin of Inkittu. It is usually overlooked in the shadow in Inkittu. 
 </div>
 <div>
   ### Sidoc
 
-  The smallest island in the Balbian chain, Sidoc is 
+  The smallest island in the Balbian chain, Sidoc is not known for much other than being a small fishing outpost at the top of the world. 
 </div>
 <div>
   ### Fereey
@@ -97,7 +97,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/stellae.png)
+  ![CAPITAL](/img/nations/kirch.png)
   </div><div>
   ## Capital - Kirch
 
@@ -106,13 +106,26 @@ Balbia holds good standing with nations that they trade with often, being Minera
 
 <div>
   
-  ## town
+  ## Droggor
 
-  town
+  Droggor is the main port city of the mainland of Balbia, and the second largest city in the nation. Its known for its spruce forests and snowy landscape, while not as white wasted as Balbia proper. Droggor serves as a major port in the area, providing an export point for goods and services and an import of labor and equipment, mostly from Koral and Minera.
+
+  The ocean tends to freeze up in the winter, causing boats to get stuck, but also creating a fun opportunity to skate on the ice. Ice skating is a popular sport here because of this, and competitions are often held when the ice is in.
 
   </div><div>
-  ![CAPTION](/img/nations/foyya.png)
+  ![Droggor](/img/nations/droggor.png)
 
+</div>
+
+<div>
+![Droggor](/img/nations/theEndArch.png)
+<div className="tiny">This is The End Arch, what remains of a ruined church of Bisu, which now serves as a gateway into the ice, and sure death. Ironically, those who wish to be embraced by the cold goddess still pass through here. </div>
+</div><div>
+Raga is the northernmost city in Abrigar, serving as the main point of access to the northern ice. Only a small, unmarked trail of snow leads here from Kirch. Most people call Raga a dead end, or where those who have nothing better to try go. Some venture into the ice. Most never return, but some report back that nothing but endless snow was found. 
+
+Raga itself is a small town, full of those who wait for their friends or family to return in vain hope, and those merchants who would profit off the desperate and about to die. 
+
+This was once said to be the birthplace of the Balbian Snow Leopard Tabaxi, but these claims have gone unverified and unstudied. 
 </div>
 
 </div>
