@@ -10,6 +10,7 @@ const sidebars = {
       },
       items: [
         'world/map',
+        'world/economy',
         'world/people',
         'world/bestiary',
         'world/floriary',
