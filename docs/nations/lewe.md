@@ -52,7 +52,7 @@ In short, Lewe is not just a land of chaos—it is chaos, alive and breathing. A
   Lewe is a nation of anarchy, where most areas and cities are lorded over by occupying armies or powerful criminal organizations. Each city is lorded over by a family or individual, provided it isn't drowning in war at any given moment.
   </div>
   <div>
-    ![CAPTION](/img/nations/leweBeginnings.png)
+    ![A destroyed town](/img/nations/leweBeginnings.png)
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Lewe's international relations are hairy, at best. With a lack of government, th
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/kahema.png)
+  ![Kahema](/img/nations/kahema.png)
   </div><div>
   ## Capital - Kahema
 
@@ -79,12 +79,12 @@ Lewe's international relations are hairy, at best. With a lack of government, th
   Grambe is a Lewen island far south of the mainland, beyond the reach of any government eager to tax or regulate its trade. Nearly every acre is devoted to grain, hops, or managed forests harvested to fuel the island's kilns. At its center stands an immense brewery, smoke pouring from its chimneys day and night as thousands of workers labor to produce an endless tide of ale. Every ship that leaves Grambe does so with a hold full of barrels.
 
   </div><div>
-  ![CAPTION](/img/nations/grambe.png)
+  ![Grambe](/img/nations/grambe.png)
 
 </div>
 
 <div>
-  ![CAPTION](/img/nations/rockRing.png)
+  ![The Rock Ring](/img/nations/rockRing.png)
   </div><div>
   ## Keakau
 

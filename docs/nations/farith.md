@@ -63,7 +63,7 @@ Farith has fairly neutral relations to most nations, but hates Balbia. They warr
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/brogkigh.png)
+  ![Brogkigh](/img/nations/brogkigh.png)
   </div><div>
   ## Capital - Brogkigh
 
@@ -75,7 +75,7 @@ Farith has fairly neutral relations to most nations, but hates Balbia. They warr
 
   Texocolton is a city perched on the shores of Sytth Island, and is where the final battle of the Farithian Rebellion took place. The final territory the two nations were fighting over was Sytth Island, which would be critical in controlling trade in the norther island chain. In the end, it is said one single warrior took the ports for Farith, using nothing but his blade and sheer might. Now, this fortified port city bears his name, Texocolton, and the island belongs to Farith much to Balbia's dismay. 
   </div><div>
-  ![CAPITAL](/img/nations/texocolton.png)
+  ![Texocolton](/img/nations/texocolton.png)
 </div>
 
 </div>

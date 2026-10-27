@@ -97,7 +97,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/kirch.png)
+  ![Kirch](/img/nations/kirch.png)
   </div><div>
   ## Capital - Kirch
 

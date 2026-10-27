@@ -50,7 +50,7 @@ Uxbrid is a small island nation that sits west of Anaxin, across many scattered 
   Uxbrid’s Government is non-existent, or at least informal. The Elders of Uxbrid, those archivists or masons who have served the longest and known the most about their nation and its history, are treated with respect. They use this respect as authority to settle disputes, spats, and disagreements. On a large scale, this would be impractical, but Uxbrid has only a sparse and relatively tame population.
   </div>
   <div>
-    ![CAPTION](/img/nations/uxbridArchivist.png)
+    ![An Archivist](/img/nations/uxbridArchivist.png)
   </div>
 </div>
 
@@ -63,7 +63,7 @@ Uxbrid sits far away from most other nations. It has little material wealth, no 
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/citadelOfStone.png)
+  ![The Citadel of Stone](/img/nations/citadelOfStone.png)
   </div><div>
   ## Capital - The Citadel of Stone
 

@@ -52,7 +52,7 @@ Their national identity is firm, their confidence unshakable. Lightning is their
   Kulcin is ruled by a grand wizard, who lives in the tower at the center of Vendeval. The Grand Wizard is in charge of maintaining the storm that engulfs Marso.
   </div>
   <div>
-    ![CAPTION](/img/nations/kulcinGrandMage.png)
+    ![A Grand Mage of Kulcin](/img/nations/kulcinGrandMage.png)
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Kulcin is known to have a very good relationship with Eplem, and is rumored to e
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/vendeval.png)
+  ![Vendeval](/img/nations/vendeval.png)
   </div><div>
   ## Capital - Vendeval
 

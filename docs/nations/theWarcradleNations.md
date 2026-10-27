@@ -35,7 +35,7 @@ The Warcradle Nations have been at odds for ages, but the specific reasoning was
   Each Warcradle nation is ruled by a King or a Queen, who also serves as a general and commander of the armies of that nation. In this way, similar to Arutu, the terms 'General' and 'King' or 'Queen' are used interchangeably. Generals rule without challenge to their power, but political assassinations are so common that all a rival really needs to do is wait. A General rules with total authority, and most with an iron fist, ensuring brutality and ruthlessness for their people. 
   </div>
   <div>
-    ![CAPTION](/img/nations/warcradleGeneralTwo.png)
+    ![A previous general of Ammar](/img/nations/warcradleGeneralTwo.png)
   </div>
 </div>
 

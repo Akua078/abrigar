@@ -46,7 +46,7 @@ The Null Wastes, or 'The Wastes', or 'The Null', goes by many names, but each on
   The Wastes has a rather non-traditional government. Most call it anarchy, but it is much more organized than most outsiders understand. Laws exist, and are enforced via vigilante justice. Though chaotic and violent, a method exists within the madness. 
   </div>
   <div>
-    ![CAPTION](/img/nations/redPricklePear.png)
+    ![A Red Prickle Pear](/img/nations/redPricklePear.png)
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Travel through the sands of the wastes is essential, and few creatures can survi
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/anh.png)
+  ![Anh](/img/nations/anh.png)
   </div><div>
   ## Capital - Anh
 

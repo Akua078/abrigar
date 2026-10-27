@@ -46,7 +46,7 @@ Visia is a large nation in the northeastern corner of Abrigar. Its one of the fe
   Visia is one of the last democracies in Abrigar, ruled by a president, often a native wood elf. Their policies rarely change, each president priding themselves on stability and a lack of hostility, ignoring the malice of the Wastes.
   </div>
   <div>
-    ![CAPTION](/img/nations/visianPresident.png)
+    ![A previous Visian President](/img/nations/visianPresident.png)
   </div>
 </div>
 
@@ -59,7 +59,7 @@ Visia is a fairly peaceful nation, producing food and using its vast shoreline t
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/chipton.png)
+  ![Chipton](/img/nations/chipton.png)
   </div><div>
   ## Capital - Chipton
 

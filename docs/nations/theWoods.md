@@ -46,7 +46,7 @@ The Whispering Woods are one of the few places in Abrigar that remain largely un
   The Woods operates as one entity politically, but is actually several dozen druid circles spread out in the trees. Each circle sends a representative to meet in a grand council of druids twice a year, and this council decides when and how to do things such as wage war, levy tax, and protect the woods. This meeting is almost always full of angry bickering, and most often not all of the representatives return unharmed. 
   </div>
   <div>
-    ![CAPTION](/img/nations/whisperingWoodsDeer.png)
+    ![A Deer in the woods](/img/nations/whisperingWoodsDeer.png)
   </div>
 </div>
 
@@ -59,7 +59,7 @@ The Whispering Woods are recognized as a nation by several of the surrounding st
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/mosshaven.png)
+  ![Mosshaven](/img/nations/mosshaven.png)
   </div><div>
   ## Capital
 
