@@ -157,7 +157,7 @@ Monsters of slime or moss, these Alkiliths are special. While normal Alkiliths f
 
 
 
-<div className = "c3">
+<div className = "c2">
 <div>
 ## Goregulls
 
@@ -169,13 +169,14 @@ Goregulls are deceptively intelligent predators found throughout the streets and
     ![Goregulls](/img/world/goregull.png)
     </figure>
 </div>
+</div>
 
 <div>
 ## Sanguine Rats
 
 These tiny beasts give a literal meaning to "bloodthirsty." They use their long, grotesque tongues to suck blood from the cobblestones of Lewe, their red-stained streets cleaned by these brown, furry vermin. Blood sustains them, and despite their disgusting appearance, they are relatively harmless. They are unhygienic, as most rats are, but lack the fangs necessary to bite effectively, relying almost entirely on their tongues for feeding. As such, they sit near the bottom of Lewe's food chain, and are often a meal for the urchins of the Anarchous nation.
 </div>
-</div>
+
 
 
 

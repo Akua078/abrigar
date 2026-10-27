@@ -66,6 +66,27 @@ The Whispering Woods are recognized as a nation by several of the surrounding st
   The Whispering Woods has no capital city, really. The largest city is Mosshaven, easily, but the nature of the many circles in the Woods prevents a capital being officially claimed. Even so, when a major meeting needs to happen between the major circles, it usually ends up happening in Mosshaven.
 </div>
 
+<div>
+  ## Mosshaven
+
+  Mosshaven was a great druidic power in the woods, harboring the Circle of Wildfire primarily. The Druids of Mosshaven ensured that peace was kept in the forest using their army of wildfire spirits. They used their connection to the forest to communicate between circles and play arbitrator to many conflicts. 
+
+  Mosshaven was attacked by monsters of the Shadowfell, summoned by Marlamin Arulo in a test of faith. Barry wanted Mosshaven destroyed so that it could not keep the peace in the forest, such that the forest would turn to a land of chaos and strife. Barry wanted to remind any true souls that happened to return of what they did, and to hopefully scare them off. Marlamin accomplished this by sabotaging an experiment by planar wizards trying to create a portal to the far realm. Marlamin used his connection to the weave to alter the source of the spell, causing the souls of the wizards to be used instead of the magical items they had prepared, and send what was left of their bodies to the Shadowfell. Marlamin took the source of the ritual, a blue, blade shaped gem that creates portals, and cut the fabric of reality to create the portals to the Shadowfell. A second attack occurred with another chosen of Barry, but its effects were reversed through an act of divine intervention, brought on by Moon Meadows. The victims of the second siege were returned to life, though with white eyes and scars, and they elected Moon Meadows as their arch druid in thanks. Now, the city heals and grows even more powerful than before. 
+
+  Archdruid Moon Meadows is focussing on reconstruction efforts in Mosshaven. By her side is Tao Raqua, a non-binary tabaxi who fled from their Lewen homeland in fear of persecution. Tao deals with the people, serving as the face of the reconstruction, though Archdruid Moon is still extremely well liked. 
+</div><div>
+  ![Moon Meadows](/img/characters/moonMeadows.png)
+  ![Tao Raqua](/img/characters/taoRaqua.png)
+</div>
+
+<div>
+  ![Saduh Tani](/img/nations/saduhTaniTwo.png)
+</div><div>
+  ## Saduh Tani
+
+  Saduh Tani is a small fishing town at the northern end of The Wastes. This town acts as the only connection between the sea and The Null, and as such is a critical economic point for the area. In the Red Age, Visia pummeled this town specifically, targeting the ports and merchants, to try and economically cripple the rebellion. Because of this, the town is still highly damaged, and the adjacent waters filled with shipwrecks that could give Broken Mast Bay a run for its money. 
+</div>
+
 </div>
 
 </div>

@@ -29,15 +29,12 @@ const sidebars = {
         id: 'nations/index',
       },
       items: [
-        'nations/ammar',
         'nations/arutu',
         'nations/balbia',
-        'nations/dravenmor',
         'nations/eplem',
         'nations/farith',
         'nations/fratera',
         'nations/gacte',
-        'nations/haldaerok',
         'nations/ishkari',
         'nations/koral',
         'nations/kulcin',
@@ -48,6 +45,7 @@ const sidebars = {
         'nations/uxbrid',
         'nations/visia',
         'nations/theWoods',
+        'nations/theWarcradleNations',
 
         
       ],

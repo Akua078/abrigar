@@ -75,7 +75,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div>
   ### Inkittu
 
-  Lake Ironscale is the first lake a ship comes to when traveling up the Gnok River System, going west to Arutu. Its known for its strategic position, serving as a hard border between Arutu and Haldaerok. What little navy Haldaerok has is stored here, ready for deployment to Fracture Lake, usually. Riverswatch is settled into the Northwest corner of the Lake, serving as a control point for the river leading to deeper Arutu and beyond. 
+  Inkittu is the largest island in the chain still belonging to Balbia. Thanks to Sytth's volatile inhabitants, it has become a trade hub for the area. 
 </div>
 <div>
   ### Nammay
@@ -90,7 +90,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div>
   ### Fereey
 
-  Lake Ironscale is the first lake a ship comes to when traveling up the Gnok River System, going west to Arutu. Its known for its strategic position, serving as a hard border between Arutu and Haldaerok. What little navy Haldaerok has is stored here, ready for deployment to Fracture Lake, usually. Riverswatch is settled into the Northwest corner of the Lake, serving as a control point for the river leading to deeper Arutu and beyond. 
+  Fereey, as the farthest island in the chain, is the least visited. It mostly serves as a checkpoint for ships rounding the northern passage, for Saduh Tani or northern Visia. 
 </div>
 </div>
 

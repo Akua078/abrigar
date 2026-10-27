@@ -63,11 +63,19 @@ Farith has fairly neutral relations to most nations, but hates Balbia. They warr
 <div className="c2">
 
 <div>
-  ![CAPITAL](/img/nations/stellae.png)
+  ![CAPITAL](/img/nations/brogkigh.png)
   </div><div>
   ## Capital - Brogkigh
 
   Brogkigh is the center of the tensions in Farith. The city serves as a trading hub for the nation, as well as an essential stop on the way to Droggor and the northern sea, and so traders pour through every day. Politicians throw money around like arrows in a war, building churches to fire at their rival religions, hire those underneath them to squabble, and so much more. As a result, every street in Brogkigh is choked with temples, drowning in propaganda, and rife with crime. It presents itself as a lovely place to be, but underneath those forced, false smiles, are hundreds of deaths. 
+</div>
+
+<div>
+  ## Texocolton
+
+  Texocolton is a city perched on the shores of Sytth Island, and is where the final battle of the Farithian Rebellion took place. The final territory the two nations were fighting over was Sytth Island, which would be critical in controlling trade in the norther island chain. In the end, it is said one single warrior took the ports for Farith, using nothing but his blade and sheer might. Now, this fortified port city bears his name, Texocolton, and the island belongs to Farith much to Balbia's dismay. 
+  </div><div>
+  ![CAPITAL](/img/nations/texocolton.png)
 </div>
 
 </div>
