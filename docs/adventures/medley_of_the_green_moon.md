@@ -62,7 +62,7 @@ hide_title: true
 
 <div className="c2">
 <div>![The Monsters](/img/adventures/greenMoonThreats.png)</div>
-<div>![Quaai](/img/adventures/Quaai.png)</div>
+<div>![Quaai](/img/adventures/quaai.png)</div>
 </div>
 ![Chef Mi'eke](/img/adventures/theChef.png)
 
