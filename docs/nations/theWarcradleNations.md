@@ -50,7 +50,7 @@ The Warcradle Nations have been at odds for ages, but the specific reasoning was
 <div className="c3">
 <div>
 ## Dubki
-![Debki](/img/nations/dubki.png)
+![Dubki](/img/nations/dubki.png)
 <div className="tiny"> Ammar </div>
 
 Dubki is the capital of Ammar, though many argue it should not be. It used to sit nearer to the border, but since the push north of the Ammaran border, many argue it should move north as well, closer to Lake Red. Its a relatively underwhelming capital, dwarfed in power even by other cities in Ammar, such as the many along the coast that hold all the trade of the nation. Dubki remains the capital, despite its flaws, as Ammar clings to tradition and its people hold fast to their patriotism. 

@@ -17,97 +17,97 @@ Abrigar is a world full of people, politics, peace, and warfare. 19 nations lay 
 
 <div>
     <Link to="/docs/nations/arutu">
-    ![Button](/img/buttons/arutu.png)
+    ![Arutu](/img/buttons/arutu.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/balbia">
-    ![Button](/img/buttons/balbia.png)
+    ![Balbia](/img/buttons/balbia.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/eplem">
-    ![Button](/img/buttons/eplem.png)
+    ![Eplem](/img/buttons/eplem.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/farith">
-    ![Button](/img/buttons/farith.png)
+    ![Farith](/img/buttons/farith.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/fratera">
-    ![Button](/img/buttons/fratera.png)
+    ![Fratera](/img/buttons/fratera.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/gacte">
-    ![Button](/img/buttons/gacte.png)
+    ![Gacte](/img/buttons/gacte.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/ishkari">
-    ![Button](/img/buttons/ishkari.png)
+    ![Ishkari](/img/buttons/ishkari.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/koral">
-    ![Button](/img/buttons/koral.png)
+    ![Koral](/img/buttons/koral.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/kulcin">
-    ![Button](/img/buttons/kulcin.png)
+    ![Kulcin](/img/buttons/kulcin.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/lewe">
-    ![Button](/img/buttons/lewe.png)
+    ![Lewe](/img/buttons/lewe.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/minera">
-    ![Button](/img/buttons/minera.png)
+    ![Minera](/img/buttons/minera.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/morgana">
-    ![Button](/img/buttons/morgana.png)
+    ![Morgana](/img/buttons/morgana.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/theNull">
-    ![Button](/img/buttons/nullWastes.png)
+    ![The Null Wastes](/img/buttons/nullWastes.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/uxbrid">
-    ![Button](/img/buttons/uxbrid.png)
+    ![Uxbrid](/img/buttons/uxbrid.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/visia">
-    ![Button](/img/buttons/visia.png)
+    ![Visia](/img/buttons/visia.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/nations/theWoods">
-    ![Button](/img/buttons/whisperingWoods.png)
+    ![The Whispering Woods](/img/buttons/whisperingWoods.png)
     </Link>
 </div>
 
@@ -115,7 +115,7 @@ Abrigar is a world full of people, politics, peace, and warfare. 19 nations lay 
 
 <div>
     <Link to="/docs/nations/theWarcradleNations">
-    ![Button](/img/buttons/warcradle.png)
+    ![The Warcradle Nations](/img/buttons/warcradle.png)
     </Link>
 </div>
 

@@ -38,7 +38,7 @@ Abba Everwinter is a man carved from discipline and devotion, the unyielding hea
 
 </div>
 <div>
-![Abba Everwinter](/img/characters/abbaEverwinter.png)
+![Abba Everwinter](/img/characters/cards/abbaEverwinter.png)
 </div>
 <div>
 ## Qideyna Everwinter
@@ -47,7 +47,7 @@ Qideyna Everwinter is ever seen with a polite smile fixed carefully in place, a 
 
 </div>
 <div>
-![Qideyna Everwinter](/img/characters/qideynaEverwinter.png)
+![Qideyna Everwinter](/img/characters/cards/qideynaEverwinter.png)
 </div>
 <div>
 ## Arial Everwinter
@@ -56,7 +56,7 @@ Arial Everwinter is remembered as the brightest star of her family, a cleric of 
 
 </div>
 <div>
-![Arial Everwinter](/img/characters/arialEverwinter.png)
+![Arial Everwinter](/img/characters/cards/arialEverwinter.png)
 </div>
 <div>
 ## Qidi Everwinter {#qidi-everwinter}

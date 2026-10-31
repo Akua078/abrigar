@@ -75,6 +75,16 @@ html {
   width: 100%;
 }
 
+/* Navbar font */
+.navbar {
+  font-family: 'Lora', serif;
+}
+
+/* Sidebar font */
+.theme-doc-sidebar-container {
+  font-family: 'Lora', serif;
+}
+
 /* Footer - - - - - - - - - - - - - - - - - - - - - - Footer */
 
 .footer {
@@ -166,6 +176,16 @@ html {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 0.75fr));
   gap: 1rem;
+  width: 100%;
+  max-width: 1500px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.c5 {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 0.75fr));
+  gap: 0.5rem;
   width: 100%;
   max-width: 1500px;
   margin: 3rem auto;

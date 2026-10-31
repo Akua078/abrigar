@@ -18,7 +18,7 @@ The Seven was a legendary adventuring party that wandered Abrigar long ago, arou
 ## Michael Maluna
 
 <figure>
-        ![Micheal Maluna](/img/characters/michaelMaluna.png)
+        ![Micheal Maluna](/img/characters/cards/michaelMaluna.png)
 </figure> 
 
 <div className="tiny"> Human Artificer </div>
@@ -31,7 +31,7 @@ He was known for having a general disregard for the safety of others and a lack 
 ## Elijah Maluna
 
 <figure>
-        ![Elijah Maluna](/img/characters/elyMaluna.png)
+        ![Elijah Maluna](/img/characters/cards/elyMaluna.png)
 </figure> 
 
 <div className="tiny"> Human Sorcerer / Wizard </div>
@@ -44,7 +44,7 @@ Elijah acted naively, but with heart, acting as the emotional center of the grou
 ## Marlamin Arulo
 
 <figure>
-        ![Marlamin Arulo](/img/characters/marlaminArulo.png)
+        ![Marlamin Arulo](/img/characters/cards/marlaminArulo.png)
 </figure> 
 
 <div className="tiny"> Human Artificer </div>
@@ -59,7 +59,7 @@ Marlamin was hundreds of years old, ancient, even for an elf. His exact age is u
 
 <div>
 <figure>
-    ![Tenebris Solum](/img/characters/tenebris.png)
+    ![Tenebris Solum](/img/characters/cards/tenebris.png)
 </figure> 
 ### Tenebris Solum
 <div className="tiny"> Aasimar Archer </div>
@@ -68,7 +68,7 @@ Tenebris was a celestial archer, fallen from the heavens, locked in an eternal b
 
 <div>
 <figure>
-        ![Calidum Nyari](/img/characters/calidum.png)
+        ![Calidum Nyari](/img/characters/cards/calidum.png)
 </figure> 
 ### Calidum Nyari
 <div className="tiny"> Aasimar Archer </div>
@@ -77,7 +77,7 @@ Calidum was a celestial archer, fallen from the heavens, locked in an eternal ba
 
 <div>
 <figure>
-        ![Sir Chris P.](/img/characters/sirChrisP.png)
+        ![Sir Chris P.](/img/characters/cards/defaultPFP.png)
 </figure> 
 ### Sir Chris P.
 <div className="tiny"> Human Bard / Paladin </div>
@@ -86,7 +86,7 @@ Chris was a famous bard, who recently took a holy vow upon joining the Seven. Ch
 
 <div>
 <figure>
-        ![Alex Baytem](/img/characters/alexSmall.png)
+        ![Alex Baytem](/img/characters/cards/alexBaytem.png)
 </figure> 
 ### Alex Baytem
 <div className="tiny"> Human Bard / Paladin </div>

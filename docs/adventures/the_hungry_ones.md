@@ -1,73 +1,77 @@
 ---
 sidebar_position: 1
 title: The Hungry Ones
-hide_title: false
+hide_title: true
 ---
-<div className = "standard">
 
-<div className = "c_left">
-<div>
-    <figure className="lrgImg">
-    ![The Living Maw](/img/adventures/theLivingMaw.png)
-    </figure>
-</div>
-<div>
-    ## The Living Maw
+<div className="standard">
 
-    -
-</div>
-</div>
+    # The Hungry Ones
 
-<div className = "c_right">
-<div>
-    ## Red - The Cursed
+    <div className="tiny">(573 PC) </div>
 
-    -
-</div>
+    Five adventurers are hired by the Haldaerokian General to search an ancient labyrinth and take what they can find from its depths. They were told that hundreds of men had been sent in, and that none had survived. They persisted, navigated the winding tunnels, and struck down four monsters from a realm beyond this one. They came face to face with the beast of the labyrinth, the Living Maw, and managed to escape with their lives. 
+
+
+<div className="c5">
+
 <div>
-    <figure className="lrgImg">
-    ![Red](/img/adventures/hungry-Red.png)
-    </figure>
-</div>
+    ![Sekhem](/img/characters/cards/sekhem.png)
+
+    Sekhem
+
+    Custom Lineage Echo Knight Fighter
 </div>
 
-<div className = "c_left">
 <div>
-    <figure className="lrgImg">
-    ![Blue](/img/adventures/hungry-Blue.png)
-    </figure>
-</div>
-<div>
-    ## Blue - The Blind
+    ![Mako Bishop](/img/characters/cards/makoBishop.png)
 
-    -
-</div>
+    Mako Bishop
+
+    Human Beastborne Ranger
 </div>
 
-<div className = "c_right">
 <div>
-    ## Pink - The Tricky
+    ![Raskall](/img/characters/cards/defaultPFP.png)
 
-    -
-</div>
-<div>
-    <figure className="lrgImg">
-    ![Pink](/img/adventures/hungry-Pink.png)
-    </figure>
-</div>
+    Raskall
+
+    Human Path of the World Tree Barbarian
 </div>
 
-<div className = "c_left">
 <div>
-    <figure className="lrgImg">
-    ![Orange](/img/adventures/hungry-Orange.png)
-    </figure>
-</div>
-<div>
-    ## Orange - The Large
+    ![Zandorel](/img/characters/cards/defaultPFP.png)
 
-    -
+    Zandorel
+
+    Aasimar Life Domain Cleric
+</div>
+
+<div>
+    ![John Smith](/img/characters/cards/johnSmith.png)
+
+    John Smith
+
+    Human Fighter
+</div>
+
+</div>
+
+
+## Gallery
+
+<div className="c2">
+<div>
+![The Red Hungry](/img/adventures/hungry-Red.png)
+![The Pink Hungry](/img/adventures/hungry-Pink.png)
+</div>
+<div>
+![The Blue Hungry](/img/adventures/hungry-Blue.png)
+![The Orange Hungry](/img/adventures/hungry-Orange.png)
 </div>
 </div>
+![The Living Maw](/img/adventures/theLivingMaw.png)
+![The Cherry Tree](/img/adventures/cherryTree.png)
+
 
 </div>

@@ -12,7 +12,7 @@ displayed_sidebar: abrigarSidebar
 <div className="c_right">
 <div>
     <figure className="nrmlImage">
-        ![Iapyx](/img/characters/iapyx1.png)
+        ![Iapyx Maluna](/img/characters/cards/iapyxMaluna.png)
     </figure> 
     Occupation: Arutuan Capitan
 

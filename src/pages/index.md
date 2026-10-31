@@ -63,7 +63,7 @@ I have to have *some* secrets!
 
 This website mainly serves as an encyclopedia, and those who access it most are the players! But, for anyone interested, I'm linking some of the particularly important pages here. They aren't found anywhere else on the website, and are the most important pages, outlining house rules, above table information, and things of that nature. Enjoy!
 
-<div className="c2">
+<div className="c3">
 <div>
     <Link to="/docs/other/table_rules">
     ![Button](/img/buttons/tableRules.png)
@@ -75,6 +75,13 @@ This website mainly serves as an encyclopedia, and those who access it most are 
     ![Button](/img/buttons/thePaleWeave.png)
     </Link>
 </div>
+
+<div>
+    <Link to="/docs/other/extra_goodies">
+    ![Button](/img/buttons/extraGoodies.png)
+    </Link>
+</div>
+
 </div>
 
 ### Useful links

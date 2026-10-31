@@ -75,16 +75,16 @@ The Whispering Woods are recognized as a nation by several of the surrounding st
 
   Archdruid Moon Meadows is focussing on reconstruction efforts in Mosshaven. By her side is Tao Raqua, a non-binary tabaxi who fled from their Lewen homeland in fear of persecution. Tao deals with the people, serving as the face of the reconstruction, though Archdruid Moon is still extremely well liked. 
 </div><div>
-  ![Moon Meadows](/img/characters/moonMeadows.png)
-  ![Tao Raqua](/img/characters/taoRaqua.png)
+  ![Moon Meadows](/img/characters/cards/moonMeadows.png)
+  ![Tao Raqua](/img/characters/cards/taoRaqua.png)
 </div>
 
 <div>
-  ![Saduh Tani](/img/nations/saduhTaniTwo.png)
+  ![Biyakli](/img/nations/biyakli.png)
 </div><div>
-  ## Saduh Tani
+  ## Biyakli
 
-  Saduh Tani is a small fishing town at the northern end of The Wastes. This town acts as the only connection between the sea and The Null, and as such is a critical economic point for the area. In the Red Age, Visia pummeled this town specifically, targeting the ports and merchants, to try and economically cripple the rebellion. Because of this, the town is still highly damaged, and the adjacent waters filled with shipwrecks that could give Broken Mast Bay a run for its money. 
+  Biyakli is one of the smaller druidic circles in the woods, mostly because of its fanatic following of their leader, which appears to be a myconid king. Akin to warlocks, these druids feed off the power of their king, and they spread their fungus spores over whatever forest they can manage, though they keep away from the territory of other circles. This modicum of restraint is the only reason they have not been destroyed, as most other circles dislike their fungal ways, but they are left alone on principle. After all, there is enough conflict from outside the woods. No circle wishes to start squabbling within. 
 </div>
 
 </div>

@@ -16,61 +16,61 @@ Abrigar is a world full of adventure and mystery, where danger lurks around ever
 
 <div>
     <Link to="/docs/world/map">
-    ![Button](/img/buttons/The_Map.png)
+    ![The Map](/img/buttons/The_Map.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/economy">
-    ![Button](/img/buttons/economyAndTrade.png)
+    ![Economy and Trade](/img/buttons/economyAndTrade.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/people">
-    ![Button](/img/buttons/People.png)
+    ![People](/img/buttons/People.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/bestiary">
-    ![Button](/img/buttons/Bestiary.png)
+    ![Bestiary](/img/buttons/Bestiary.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/floriary">
-    ![Button](/img/buttons/Floriary.png)
+    ![Floriary](/img/buttons/Floriary.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/cuisine">
-    ![Button](/img/buttons/Cuisine.png)
+    ![Cuisine](/img/buttons/Cuisine.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/holidays_and_seasons">
-    ![Button](/img/buttons/Holidays_and_Seasons.png)
+    ![Holidays and Seasons](/img/buttons/Holidays_and_Seasons.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/biomes">
-    ![Button](/img/buttons/Biomes.png)
+    ![Biomes](/img/buttons/Biomes.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/item_catalogue">
-    ![Button](/img/buttons/Item_Catalogue.png)
+    ![Item Catalogue](/img/buttons/Item_Catalogue.png)
     </Link>
 </div>
 
 <div>
     <Link to="/docs/world/homebrew">
-    ![Button](/img/buttons/Homebrew.png)
+    ![Homebrew](/img/buttons/Homebrew.png)
     </Link>
 </div>
 
