@@ -131,7 +131,7 @@ Four wayward Souls find themselves in an unlikely alliance, gathered to solve a 
 
 <div className="c_left">
 <div>
-    ## Session Eight - Loving Memory
+    ## Session Ten - Loving Memory
 
     The Party defeats Cooper Cortez, reducing him to a monster that can barely hold a human form. He donned a mask, one matching the Court of Laughter Masks worn by the group. Ulric secured his circle and rebuilt. Catastrophe slew the Shadow Weaver and now knows how to keep him down, avenging Knight Maddock. Empira became a world renowned scholar and historian, spreading the word of her findings across the land. Aatrox was accepted back into his home and to his mother's service. A statue is erected of Cyris Go'el at the monastery he protected, long since lost. 
 </div>
