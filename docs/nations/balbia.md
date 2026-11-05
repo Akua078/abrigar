@@ -65,12 +65,12 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div>
   ### Sytth Island
 
-  Easily the biggest lake in Arutu, and all of Abrigar, Venom Lake is a long standing dispute of territory between Arutu and Eplem. The conflict is bitter, considering the importance and size of Venom Lake and its facilitation of trade, being the deepest water route in Abrigar, hence the name. 
+  Sytth Island, or just Sytth, is the largest island in the Balbian Chain. It belongs to Farith, technically, but it was taken in the recent war, so many citizens still consider themselves Balbian. Because of this, the island is ripe with conflict and its economy unsteady. 
 </div>
 <div>
   ### The Mysst Spit
 
-  The smallest Arutuan lake. It lies in between the other two, used mostly as a water route deeper into Arutu, and even into Venom Lake to access The Whispering Woods and Eplem. Fishing is quite the attraction here, the lake being filled to the brim with silver fang carp, a kind of carnivorous fish known for its silver scales. 
+  This rock barely counts as an island. It's the smallest island in the chain, known for absolutely nothing, and is not significant. It lies just south of the main Balbian chain. 
 </div>
 <div>
   ### Inkittu
@@ -85,7 +85,7 @@ Balbia holds good standing with nations that they trade with often, being Minera
 <div>
   ### Sidoc
 
-  The smallest island in the Balbian chain, Sidoc is not known for much other than being a small fishing outpost at the top of the world. 
+  The smallest island in the main Balbian chain, Sidoc is not known for much other than being a small fishing outpost at the top of the world. 
 </div>
 <div>
   ### Fereey

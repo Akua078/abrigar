@@ -33,7 +33,7 @@ This page acts as a reference for use at the table, though it contains some fun 
 <div>
 ### Swimming
 
-If a creature does not have a swimming speed, all movement must be used to tread water for one turn. This allows them to make a DC:10 STR or DEX save to keep their head above water. Heavy armor imposes disavantage on this roll, as does being encumbered by carrying weight. This does not allow them to move or change their position in the water.
+If a creature does not have a swimming speed, all movement must be used to tread water for one turn. This allows them to make a DC:10 STR or DEX save to keep their head above water. Heavy armor imposes disadvantage on this roll, as does being encumbered by carrying weight. This does not allow them to move or change their position in the water.
 </div>
 
 <div>
