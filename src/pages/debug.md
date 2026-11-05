@@ -20,6 +20,14 @@ This page is a work in progress! Please enjoy whatever content is here but be aw
 </div>
 :::
 
+:::info[Above Table Info]
+<div className = "tech">
+This page lists rules and above table information that should not be taken in the same light as the rest of this website! This is rule information, not lore! 
+
+Obviously.
+</div>
+:::
+
 :::danger[Spoilers!]
 <div className = "tech">
 Look out! This page contains spoilers that are not beholden to the general rules! That is, lore here may not be widely known to the public and can be considered special knowledge! Here be dragons!

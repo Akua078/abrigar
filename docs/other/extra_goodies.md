@@ -6,6 +6,14 @@ hide_title: true
 
 import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
+:::info[Above Table Info]
+<div className = "tech">
+This page lists rules and above table information that should not be taken in the same light as the rest of this website! This is rule information, not lore! 
+
+Obviously.
+</div>
+:::
+
 
 <div className = "standard">
 
