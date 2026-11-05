@@ -32,18 +32,20 @@ Balbia rules the northern sea, as well as the Balbian Island Chain. They are the
   <div>
   ## Geography
 
-  Balbia has taken the northern sea of Abrigar, as well as the Balbian island chain inside it. A portion of the mainland is taken too, a spoil of war with Farith some years ago.
+  Balbia has taken the northern sea of Abrigar, as well as the Balbian island chain inside it. A portion of the mainland is taken too, a spoil of war with Farith some years ago. The northern borders of Balbia extend into the ice, past where solid land will bring travelers. Due to this, almost all voyages into the Ice start from Balbia, specifically Raga. The Balbian Strait, also known as the Balbian Channel, is their main economic artery. They control the only alternate passage to the southern passage, which is often rife with pirates, and so many merchants seeking Saduh-Tani go through here, and Balbia profits. 
   </div>
   <div>
   ## Origins
 
-  Balbia emerged similarly to The Woods and Farith , claiming what land major nations had not, though it had its scuffle with Farith over the island chain and the shores of the mainland, which it ended up winning ultimately. Farith is still disgruntled about it, but the Farithian government is too disorganized to properly retaliate.
+  Balbia emerged similarly to The Woods and Farith , claiming what land major nations had not, though it had its scuffle with Farith over the island chain and the shores of the mainland, which it ended up winning ultimately. Farith is still disgruntled about it, but the Farithian government is too disorganized to properly retaliate. They refer to this as the Farithian rebellion, though which nation represents the original idea of the nation they originally were is hotly debated. Either way, Balbia won, lived on, and claimed most of the islands in the strait. 
   </div>
 
   <div>
   ## Government 
 
   Balbia is one of only two democracies in Abrigar, the other being Visia. They elect a Chancellor to lead them, whose term lasts five years before another election is held. A Chancellor that has previously run is not allowed to run again except in special circumstances, and it is generally considered dishonorable to run twice. 
+
+  The Chancellor runs the country with their power checked by a council of representatives, which can approve or veto lawmaking decisions. These council members usually end up being religious representatives, though the Balbian government claims to be separated from religion; this is their loophole. 
   </div>
   <div>
     ![The Chancellor](/img/nations/balbianChancellor.png)
@@ -55,7 +57,7 @@ Balbia rules the northern sea, as well as the Balbian Island Chain. They are the
 
 Balbia has fairly good international relations, though tensions with Farith remain from their war centuries ago. Balbia engages with much trade, especially with Koral, though their rivalry to rule the oceans keeps them from being too friendly. 
 
-Balbia holds good standing with nations that they trade with often, being Minera, Visia, Fratera, and Kulcin. 
+Balbia holds good standing with nations that they trade with often, being Koral, Kulcin, The Wastes, and The Woods.
 </div>
 
 ## The Balbian Island Chain
