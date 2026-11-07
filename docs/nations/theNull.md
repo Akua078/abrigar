@@ -43,7 +43,7 @@ The Null Wastes, or 'The Wastes', or 'The Null', goes by many names, but each on
   <div>
   ## Government 
 
-  The Wastes has a rather non-traditional government. Most call it anarchy, but it is much more organized than most outsiders understand. Laws exist, and are enforced via vigilante justice. Though chaotic and violent, a method exists within the madness. 
+  The Wastes has a rather non-traditional government. Most call it anarchy, but it is much more organized than most outsiders understand. Laws exist, and are enforced via vigilante justice. Though chaotic and violent, a method exists within the madness. A clan of vigilantes, the Maddocks, rule the wastes from Anh. They lay few direct laws, more acting as an enforcing body of morality and judgement. Their mysterious weapons, powerful magic, and brilliant tactics make them strong enough to control the wastes effectively, and it is theorized that they are what remains of those who began the rebellion in the first place. 
   </div>
   <div>
     ![A Red Prickle Pear](/img/nations/redPricklePear.png)

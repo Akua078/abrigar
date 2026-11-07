@@ -31,7 +31,7 @@ Four wayward Souls find themselves in an unlikely alliance, gathered to solve a 
 </div>
 
 <div>
-    ![Catastrophe Maddock](/img/characters/cards/cassieMaddock.png)
+    ![Catastrophe Maddock](/img/characters/cards/catastropheMaddock.png)
 
     Catastrophe Maddock
 

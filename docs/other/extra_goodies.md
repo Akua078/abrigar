@@ -73,6 +73,13 @@ These are the images used on the 'people' page. On that page, I made the artisti
 ![The Yuan-Ti](/img/extra/yuanTiFull.png)
 </div>
 
+<div className="c_left">
+<div>
+<div>![The Maddocks](/img/extra/goldenMaddocks.png)</div>
+</div>
+This is the image used for the Maddocks, as they appear in their cards (the little images that appear in the character directory). I didn't use this one for the main Maddocks page because I didn't like the golden clothes they're all decked out in. I wanted to keep more to the rugged leather style rather than making them come off as some brutalist royal family. 
+</div>
+
 
 
 </div>
