@@ -148,6 +148,13 @@ const characters = [
     image: "/img/characters/cards/skylar.png",
     path: "/docs/characters/skylar",
   },
+  {
+    name: "Duquru Timmix",
+    role: "Member of the Vanguard",
+    summary: "Runaway Adventurer",
+    image: "/img/characters/cards/duquruTimmix.png",
+    path: "/docs/characters/duquruTimmix",
+  },
   
 ];
 
