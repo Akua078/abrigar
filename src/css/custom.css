@@ -237,12 +237,21 @@ figure img {
   text-align: center;
 }
 
-.nrmlImage {
-  width: 350px;
-  margin: 0 auto;
-  text-align: center;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+.img {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
 }
 
 .lrgImage {
@@ -311,6 +320,13 @@ figure img {
 
 .right_align {
   text-align: right;
+}
+
+.centered_list {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
 }
 
 .intro {

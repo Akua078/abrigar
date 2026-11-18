@@ -80,6 +80,43 @@ These are the images used on the 'people' page. On that page, I made the artisti
 This is the image used for the Maddocks, as they appear in their cards (the little images that appear in the character directory). I didn't use this one for the main Maddocks page because I didn't like the golden clothes they're all decked out in. I wanted to keep more to the rugged leather style rather than making them come off as some brutalist royal family. 
 </div>
 
+## Old Map Versions
+
+This is a collection of older versions of the map, mostly here for shock value. Abrigar has come a long way. This is how it began. Some of these are cut off, some are without labels or proper version numbers, and the colors are all over the place. The beauty of creating a world fill of chaos. 
+
+<div className="tiny"> 1.6.2 Default View</div>
+<div className="img">
+  ![1.6.2 Map](/img/extra/1.6.2Map.png)
+</div>
+<div className="tiny"> 1.6.2 Political View</div>
+<div className="img">
+  ![1.6.2 Political View](/img/extra/1.6.2Pol.png)
+</div>
+<div className="tiny"> 1.8.1 Map</div>
+<div className="img">
+  ![1.8.1 Political View](/img/extra/1.8.1Map.png)
+</div>
+<div className="img">
+  ![Map 1](/img/extra/prototypeMap1.png)
+</div>
+<div className="img">
+  ![Map 2](/img/extra/prototypeMap2.png)
+</div>
+<div className="img">
+  ![Map 3](/img/extra/prototypeMap3.png)
+</div>
+<div className="img">
+  ![Map 4](/img/extra/prototypeMap4.png)
+</div>
+<div className="img">
+  ![Map 5](/img/extra/prototypeMap5.png)
+</div>
+<div className="img">
+  ![Map 6](/img/extra/prototypeMap6.png)
+</div>
+
+
+
 
 
 </div>
