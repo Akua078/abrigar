@@ -1,6 +1,11 @@
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-export default function AbrigarHeader({ title, image, imagePosition = 'center' }) {
+export default function AbrigarHeader({
+  title,
+  image,
+  imagePosition = 'center'
+}) {
   const imageUrl = useBaseUrl(image);
 
   return (

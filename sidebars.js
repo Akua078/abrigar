@@ -100,6 +100,10 @@ const sidebars = {
     {
       type: 'category',
       label: 'Other',
+      link: {
+        type: 'doc',
+        id: 'other/index',
+      },
       items: [
         'other/table_rules',
         'other/the_pale_weave',

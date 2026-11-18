@@ -16,9 +16,9 @@ import AbrigarHeader from '@site/src/components/AbrigarHeader';
 
 
 <div className="intro">
-To the west of Abrigar lies the realm of Eplem, a land once renowned for its rich culture, powerful magic, and vibrant cities. However, Eplem's reputation has been tarnished by the recent conflict with Arutu, which resulted in the loss of a significant portion of its territory. Despite this setback, Eplem remains a land of wonder and mystery. Its cities, though scarred by war, still boast a unique blend of medieval and ancient architecture, reflecting the nation's long and storied history. The streets are filled with the sounds of merchants haggling, scholars debating, and musicians playing enchanting melodies. And in its capital city, islands made of stone and riddled with farmland float high over the streets. 
+To the west of Abrigar lies the realm of Eplem, a land once renowned for its rich culture, powerful magic, and vibrant cities. However, Eplem's reputation has been tarnished by the recent conflict with Arutu, The War of Eclipsing Fire, which resulted in the loss of a significant portion of its territory. Despite this setback, Eplem remains a land of wonder and mystery. Its cities, though scarred by war, still boast a unique blend of medieval and ancient architecture, reflecting the nation's long and storied history. The streets are filled with the sounds of merchants haggling, scholars debating, and musicians playing enchanting melodies. And in its capital city, islands made of stone float high over the streets, safe from harm. 
 
-Eplem's true strength, however, lies in its mastery of magic. The nation is home to some of the most powerful spellcasters in the known world, their knowledge passed down through generations of arcane scholars. Eplem's mages are renowned for their mastery of both offensive and constructive magic, and their spells are feared by many. However, the conflict with Arutu has taken a toll on Eplem's magical prowess. Many of its most powerful mages have fallen in battle, and the nation's magical infrastructure has been damaged. Eplem is now struggling to rebuild its magical might, while also defending its remaining territory from Arutu's incursions.
+Eplem's true strength lies in its mastery of magic. The nation is home to some of the most powerful spellcasters in the known world, their knowledge passed down through generations of arcane scholars. Eplem's mages are renowned for their mastery of both offensive and constructive magic, and their spells are feared by many. However, the conflict with Arutu has taken a toll on Eplem's magical prowess. Many of its most powerful mages have fallen in battle, and the nation's magical infrastructure has been damaged. Eplem is now struggling to rebuild its magical might, while also defending its remaining territory from Arutu's incursions.
 
 Despite its current challenges, Eplem remains a land of great potential. Its people are resilient and resourceful, and its magic is still a force to be reckoned with. With time, Eplem may yet rise from the ashes of war and reclaim its place as a beacon of culture and power in the realm of Abrigar.
 </div>
@@ -65,7 +65,7 @@ Despite its current challenges, Eplem remains a land of great potential. Its peo
 <div>
 ## International Relations
 
-Eplem used to be a huge social hub, spreading new ideas, new magics, and progressive thinking. This forward progress put Eplem at the forefront with Minera and Fratera as far as social dominance goes, but the war against Arutu changed everything. Eplem survived, but it took an extreme amount of their resources. The nation is tired now, a shell of what it was before, and its relations have changed because of that. Minera and Fratera now look down on Eplem, as Arutu does, and its status as a powerful nation is  now laughable. Neither Minera nor Fratera came to Eplem's aid in the war, planting a bitter grudge in the hearts of Eplem citizens. 
+Eplem used to be a huge social hub, spreading new ideas, new magics, and progressive thinking. This forward progress put Eplem at the forefront with Minera and Visia as far as social dominance goes, but the war against Arutu changed everything. Eplem survived, but it took an extreme amount of their resources. The nation is tired now, a shell of what it was before, and its relations have changed because of that. Minera and Visia now look down on Eplem, as Arutu does, and its status as a powerful nation is now laughable. Neither Minera nor Fratera came to Eplem's aid in the war, planting a bitter grudge in the hearts of Eplem citizens. 
 </div>
 
 <div className="c2">
@@ -75,7 +75,7 @@ Eplem used to be a huge social hub, spreading new ideas, new magics, and progres
   </div><div>
   ## Capital - Lumina
 
-  The capital of Eplem is a grand city known as "Lumina," a name that reflects its reputation as a beacon of magical and scholarly pursuits. It stands as a testament to the nation's rich history and cultural influence, even after the devastating conflict with Arutu. 
+  The capital of Eplem is a grand city known as Lumina, a name that reflects its reputation as a beacon of magical and scholarly pursuits. It stands as a testament to the nation's rich history and cultural influence, even after the devastating conflict with Arutu. 
 
   Lumina is not only a center of magical learning but also a hub of trade and commerce. Merchants from across Abrigar and beyond flock to the city's bustling markets, seeking rare magical artifacts, exotic goods, and the wisdom of Eplem's scholars. To bolster the agricultural economy of both the capital and the nation at large, the Eplemian government has used earth magic to create many floating islands of stone above the city. These islands are full of farmland lifted high over the roads, and any mage worth their spell book must use a flying mount to access the islands, or pay a rider to carry them around. 
 

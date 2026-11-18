@@ -82,6 +82,11 @@ const config = {
           to: '/docs/characters',
           position: 'left',
         },
+        {
+          label: 'Other',
+          to: '/docs/other',
+          position: 'left',
+        },
       ],
     },
 
