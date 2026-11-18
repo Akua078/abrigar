@@ -12,5 +12,5 @@ This page is a work in progress! Please enjoy whatever content is here but be aw
 <div className = "standard">
 # Map
 
-Keep your eyes here. Special Suprises coming, darlings! - B
+Keep your eyes here. Special Surprises coming, darlings! - B
 </div>

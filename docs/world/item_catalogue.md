@@ -45,7 +45,7 @@ For those items without a rarity, such as dishes and drinks, other information m
     <div class="item-subtitle">Common</div>
   </div>
   <div class="item-description">
-    The tooth of a shadow creature, most commonly found in a shadow mastiff. It resembles a normal tooth, slightly tinged with purple, and brimming with illusion magic. It is a common spell ingredient, but can also be made into jewelery or a dagger in a pinch.
+    The tooth of a shadow creature, most commonly found in a shadow mastiff. It resembles a normal tooth, slightly tinged with purple, and brimming with illusion magic. It is a common spell ingredient, but can also be made into jewelry or a dagger in a pinch.
   </div>
   <div class="item-price"> 1 gp (fang) </div>
 </div>

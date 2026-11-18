@@ -12,11 +12,17 @@ import Link from '@docusaurus/Link';
 
 Abrigar is a world full of adventure and mystery, where danger lurks around every corner. From fantastic monsters to pests scurrying through alleys, from massive continents to tiny islands, there is no shortage of places and things to explore. 
 
-<div className="c2">
-
 <div>
     <Link to="/docs/world/map">
     ![The Map](/img/buttons/The_Map.png)
+    </Link>
+</div>
+
+<div className="c2">
+
+<div>
+    <Link to="/docs/world/history">
+    ![The Map](/img/buttons/history.png)
     </Link>
 </div>
 
