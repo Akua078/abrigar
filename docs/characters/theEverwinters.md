@@ -69,7 +69,7 @@ Qidi spends his days now bringing honor to the Everwinter name, to her name, lik
 
 </div>
 <div>
-![Qidi Everwinter](/img/characters/qidiEverwinterTwo.png)
+![Qidi Everwinter](/img/characters/qidiEverwinterFixedTwo.png)
 </div>
 </div>
 
